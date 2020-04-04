@@ -639,7 +639,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 637,,25/03/2020,55,F,Ludhiana,Ludhiana,Punjab,India,Hospitalized,25/03/2020,"No Travel History (Husband, Son and 2 domestic workers in isolation)"
 638,,25/03/2020,31,M,Garhshankar,Hoshiarpur,Punjab,India,Hospitalized,25/03/2020,Son of P311
 639,,25/03/2020,26,M,Dugadda,Pauri Garhwal,Uttarakhand,India,Hospitalized,25/03/2020,Travel History to Spain (admitted in Kotdwar)
-640,CH-P2,25/03/2020,23,M,Rajnandgaon,Durg,Chhattisgarh,,Hospitalized,25/03/2020,Travel history to Thailand (admitted in Rajnandgaon hospital)
+640,CH-P2,25/03/2020,23,M,Rajnandgaon,Rajnandgaon,Chhattisgarh,,Hospitalized,25/03/2020,Travel history to Thailand (admitted in Rajnandgaon hospital)
 641,CH-P3,25/03/2020,24,F,Raipur,Raipur,Chhattisgarh,,Hospitalized,25/03/2020,Travel history to UK
 642,,25/03/2020,,M,Noida,Gautam Buddha Nagar,Uttar Pradesh,India,Hospitalized,25/03/2020,Details awaited (  husband of P644 )
 643,,25/03/2020,,F,Noida,Gautam Buddha Nagar,Uttar Pradesh,India,Hospitalized,25/03/2020,Details awaited ( Wife of P643 )
@@ -1072,7 +1072,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 1070,,29/03/2020,,,,Ernakulam,Kerala,,Hospitalized,29/03/2020,Health worker
 1071,,29/03/2020,,,,Thrissur,Kerala,,Hospitalized,29/03/2020,
 1072,KL-PL-P5,29/03/2020,,,,Palakkad,Kerala,,Hospitalized,29/03/2020,Travelled from Dubai landed at Kochi airport
-1073,KL-TV-R10,29/03/2020,68,M,,No foreign travel history,Kerala,,Deceased,31/03/2020,Details awaited
+1073,KL-TV-R10,29/03/2020,68,M,,Thiruvananthapuram,Kerala,,Deceased,31/03/2020,Details awaited
 1074,KL-ML-P9,29/03/2020,,,,Malappuram,Kerala,,Hospitalized,29/03/2020,Travelled from Dubai Spice Jet SG 054
 1075,TN-P43,29/03/2020,29,F,,Coimbatore,Tamil Nadu,Indian,Hospitalized,29/03/2020,Contact of TN-P26
 1076,TN-P44,29/03/2020,58,F,,Coimbatore,Tamil Nadu,Indian,Hospitalized,29/03/2020,Contact of TN-P43
@@ -1345,7 +1345,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 1343,,30/03/2020,,,,,Maharashtra,,Hospitalized,30/03/2020,Private hospital case in Mumbai metropolitan area
 1344,,30/03/2020,,,,,Maharashtra,,Hospitalized,30/03/2020,Private hospital case in Mumbai metropolitan area
 1345,,30/03/2020,,,,,Maharashtra,,Hospitalized,30/03/2020,Private hospital case in Mumbai metropolitan area
-1346,,30/03/2020,,M,,Bilaspur,Chhattisgarh,,Hospitalized,30/03/2020,Travelled from London
+1346,,30/03/2020,,M,,Korba,Chhattisgarh,,Hospitalized,30/03/2020,Travelled from London
 1347,,31/03/2020,,,,Mumbai,Maharashtra,,Hospitalized,31/03/2020,Details awaited
 1348,,31/03/2020,,,,Pune,Maharashtra,,Hospitalized,31/03/2020,Details awaited
 1349,,31/03/2020,,,,Pune,Maharashtra,,Hospitalized,31/03/2020,Details awaited
@@ -1744,7 +1744,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 1742,,31/03/2020,,,,,Telangana,,Hospitalized,01/04/2020,Details Awaited
 1743,,31/03/2020,,,,,Telangana,,Hospitalized,01/04/2020,Details Awaited
 1744,,31/03/2020,,,,,Telangana,,Hospitalized,01/04/2020,Details Awaited
-1745,,31/03/2020,,,,,Punjab,,Hospitalized,01/04/2020,Details Awaited
+1745,,31/03/2020,,,,Amritsar,Punjab,,Hospitalized,01/04/2020,Details Awaited
 1746,,01/04/2020,,,,,Uttar Pradesh,,Hospitalized,01/04/2020,Details Awaited
 1747,,01/04/2020,,,,,Uttar Pradesh,,Hospitalized,01/04/2020,Details Awaited
 1748,,01/04/2020,,,,,Uttar Pradesh,,Hospitalized,01/04/2020,Details Awaited
@@ -1759,107 +1759,107 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 1757,,01/04/2020,,,,,Uttar Pradesh,,Hospitalized,01/04/2020,Details Awaited
 1758,,01/04/2020,,,,,Rajasthan,,Hospitalized,01/04/2020,"Travelled from Iran, Resident of Ladakh( S.N Medical College ) - Evacuee"
 1759,,01/04/2020,65,M,,Jodhpur,Rajasthan,,Hospitalized,01/04/2020,Evacuee from Iran
-1760,,01/04/2020,28,M,Annaimalai,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1761,,01/04/2020,40,M,Annaimalai,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1762,,01/04/2020,34,M,Pollachi,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1763,,01/04/2020,36,M,Annaimalai,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1764,,01/04/2020,41,M,Annaimalai,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1765,,01/04/2020,38,M,Annaimalai,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1766,,01/04/2020,39,M,Pollachi,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1767,,01/04/2020,40,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1768,,01/04/2020,30,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1769,,01/04/2020,45,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1770,,01/04/2020,57,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1771,,01/04/2020,32,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1772,,01/04/2020,34,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1773,,01/04/2020,45,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1774,,01/04/2020,52,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1775,,01/04/2020,40,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1776,,01/04/2020,46,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1777,,01/04/2020,37,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1778,,01/04/2020,47,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1779,,01/04/2020,33,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1780,,01/04/2020,21,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1781,,01/04/2020,44,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1782,,01/04/2020,39,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1783,,01/04/2020,38,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1784,,01/04/2020,55,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1785,,01/04/2020,31,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1786,,01/04/2020,51,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1787,,01/04/2020,34,M,Pothanur,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1760,TN-P149,01/04/2020,28,M,Annaimalai,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1761,TN-P150,01/04/2020,40,M,Annaimalai,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1762,TN-P151,01/04/2020,34,M,Pollachi,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1763,TN-P152,01/04/2020,36,M,Annaimalai,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1764,TN-P153,01/04/2020,41,M,Annaimalai,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1765,TN-P154,01/04/2020,38,M,Annaimalai,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1766,TN-P155,01/04/2020,39,M,Pollachi,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1767,TN-P156,01/04/2020,40,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1768,TN-P157,01/04/2020,30,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1769,TN-P158,01/04/2020,45,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1770,TN-P159,01/04/2020,57,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1771,TN-P160,01/04/2020,32,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1772,TN-P161,01/04/2020,34,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1773,TN-P162,01/04/2020,45,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1774,TN-P163,01/04/2020,52,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1775,TN-P164,01/04/2020,40,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1776,TN-P165,01/04/2020,46,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1777,TN-P166,01/04/2020,37,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1778,TN-P167,01/04/2020,47,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1779,TN-P168,01/04/2020,33,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1780,TN-P169,01/04/2020,21,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1781,TN-P170,01/04/2020,44,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1782,TN-P171,01/04/2020,39,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1783,TN-P172,01/04/2020,38,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1784,TN-P173,01/04/2020,55,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1785,TN-P174,01/04/2020,31,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1786,TN-P175,01/04/2020,51,M,Mettupalayam,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1787,TN-P176,01/04/2020,34,M,Pothanur,Coimbatore,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1788,TN-P128,01/04/2020,40,M,,Tirunelveli,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1789,TN-P129,01/04/2020,50,M,,Tirunelveli,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1790,TN-P130,01/04/2020,43,M,,Tirunelveli,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1791,TN-P131,01/04/2020,33,M,,Tirunelveli,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1792,TN-P132,01/04/2020,38,M,,Tirunelveli,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1793,TN-P127,01/04/2020,37,M,Melapalayam,Tirunelveli,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1794,,01/04/2020,26,M,Karunkalpalayam,Erode,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1795,,01/04/2020,54,M,Karunkalpalayam,Erode,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1796,,01/04/2020,60,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1797,,01/04/2020,50,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1798,,01/04/2020,63,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1799,,01/04/2020,55,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1800,,01/04/2020,56,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1801,,01/04/2020,66,M,,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1802,,01/04/2020,52,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1803,,01/04/2020,63,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1804,,01/04/2020,27,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1805,,01/04/2020,40,M,Chinnamanur,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1806,,01/04/2020,48,M,Uthamapalayam,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1807,,01/04/2020,54,M,Uthamapalayam,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1808,,01/04/2020,71,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1809,,01/04/2020,31,M,Periyakulam,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1810,,01/04/2020,50,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1811,,01/04/2020,48,M,Periyakulam,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1812,,01/04/2020,68,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1813,,01/04/2020,36,M,periyakulam,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1814,,01/04/2020,47,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1815,,01/04/2020,55,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1816,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1817,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1818,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1819,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1820,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1821,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1822,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1823,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1824,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1825,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1826,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1827,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1828,,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1829,,01/04/2020,22,M,Begampur,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1830,,01/04/2020,55,M,Begampur,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1831,,01/04/2020,35,M,Begampur,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1832,,01/04/2020,35,M,Begampur,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1833,,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1834,,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1835,,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1836,,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1837,,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1838,,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1839,,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1840,,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1841,,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1842,,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1843,,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1844,,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1845,,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1846,,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1847,,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1848,,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1794,TN-P147,01/04/2020,26,M,Karunkalpalayam,Erode,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1795,TN-P148,01/04/2020,54,M,Karunkalpalayam,Erode,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1796,TN-P212,01/04/2020,60,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1797,TN-P213,01/04/2020,50,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1798,TN-P214,01/04/2020,63,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1799,TN-P215,01/04/2020,55,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1800,TN-P216,01/04/2020,56,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1801,TN-P217,01/04/2020,66,M,,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1802,TN-P218,01/04/2020,52,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1803,TN-P219,01/04/2020,63,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1804,TN-P220,01/04/2020,27,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1805,TN-P221,01/04/2020,40,M,Chinnamanur,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1806,TN-P222,01/04/2020,48,M,Uthamapalayam,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1807,TN-P223,01/04/2020,54,M,Uthamapalayam,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1808,TN-P224,01/04/2020,71,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1809,TN-P225,01/04/2020,31,M,Periyakulam,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1810,TN-P226,01/04/2020,50,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1811,TN-P227,01/04/2020,48,M,Periyakulam,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1812,TN-P228,01/04/2020,68,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1813,TN-P229,01/04/2020,36,M,periyakulam,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1814,TN-P230,01/04/2020,47,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1815,TN-P231,01/04/2020,55,M,Bodi,Theni,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1816,TN-P195,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1817,TN-P196,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1818,TN-P197,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1819,TN-P198,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1820,TN-P199,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1821,TN-P200,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1822,TN-P201,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1823,TN-P202,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1824,TN-P203,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1825,TN-P204,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1826,TN-P205,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1827,TN-P206,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1828,TN-P207,01/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1829,TN-P208,01/04/2020,22,M,Begampur,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1830,TN-P209,01/04/2020,55,M,Begampur,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1831,TN-P210,01/04/2020,35,M,Begampur,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1832,TN-P211,01/04/2020,35,M,Begampur,Dindigul,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1833,TN-P138,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1834,TN-P139,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1835,TN-P140,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1836,TN-P141,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1837,TN-P142,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1838,TN-P143,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1839,TN-P144,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1840,TN-P145,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1841,TN-P146,01/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1842,TN-P177,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1843,TN-P179,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1844,TN-P180,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1845,TN-P181,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1846,TN-P182,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1847,TN-P183,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1848,TN-P184,01/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1849,TN-P133,01/04/2020,48,M,Thirupathur,Sivaganga,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1850,TN-P134,01/04/2020,42,M,Thirupathur,Sivaganga,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1851,TN-135,01/04/2020,48,M,Thirupathur,Sivaganga,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1852,TN-136,01/04/2020,38,M,Devakottai,Sivaganga,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1853,TN-137,01/04/2020,40,M,Ilayankudi,Sivaganga,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1854,,01/04/2020,,M,,Thoothukkudi,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1855,,01/04/2020,,M,,Thoothukkudi,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1851,TN-P135,01/04/2020,48,M,Thirupathur,Sivaganga,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1852,TN-P136,01/04/2020,38,M,Devakottai,Sivaganga,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1853,TN-P137,01/04/2020,40,M,Ilayankudi,Sivaganga,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1854,TN-P125,01/04/2020,,M,,Thoothukkudi,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1855,TN-P126,01/04/2020,,M,,Thoothukkudi,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1856,TN-P234,01/04/2020,58,M,,Karur,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1857,,01/04/2020,,M,,Kancheepuram,Tamil Nadu,Indonesia,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1858,,01/04/2020,,M,,Kancheepuram,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1859,,01/04/2020,,M,,Chennai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1860,,01/04/2020,,M,,Tiruvannamalai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1857,TN-P186,01/04/2020,,M,,Kancheepuram,Tamil Nadu,Indonesia,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1858,TN-P187,01/04/2020,,M,,Kancheepuram,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1859,TN-P178,01/04/2020,,M,,Chennai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
+1860,TN-P185,01/04/2020,,M,,Tiruvannamalai,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1861,TN-P188,01/04/2020,42,M,,Tirupathur,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1862,TN-P189,01/04/2020,40,M,,Tirupathur,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1863,TN-P190,01/04/2020,27,M,,Tirupathur,Tamil Nadu,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
@@ -1973,30 +1973,30 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 1971,,01/04/2020,,,,Jorhat,Assam,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1972,,01/04/2020,,,,Jorhat,Assam,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
 1973,,01/04/2020,,,,Jorhat,Assam,,Hospitalized,01/04/2020,Attended Delhi Religious Conference
-1974,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1975,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1976,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1977,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1978,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1979,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1980,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1981,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1982,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1983,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1984,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1985,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1986,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1987,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1988,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1989,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1990,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1991,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1992,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1993,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1994,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1995,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1996,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
-1997,,01/04/2020,,,,,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1974,,01/04/2020,,,,Chittoor,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1975,,01/04/2020,,,,East Godavari,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1976,,01/04/2020,,,,East Godavari,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1977,,01/04/2020,,,,East Godavari,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1978,,01/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1979,,01/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1980,,01/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1981,,01/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1982,,01/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1983,,01/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1984,,01/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1985,,01/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1986,,01/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1987,,01/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1988,,01/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1989,,01/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1990,,01/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1991,,01/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1992,,01/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1993,,01/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1994,,01/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1995,,01/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1996,,01/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
+1997,,01/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,01/04/2020,Details awaited
 1998,,01/04/2020,,,,Tonk,Rajasthan,,Hospitalized,01/04/2020,Details awaited
 1999,,01/04/2020,,,,Tonk,Rajasthan,,Hospitalized,01/04/2020,Details awaited
 2000,,01/04/2020,,,,Tonk,Rajasthan,,Hospitalized,01/04/2020,Details awaited
@@ -2071,27 +2071,27 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 2069,,02/04/2020,,,Ramganj,Jaipur,Rajasthan,,Hospitalized,02/04/2020,"Contacts of a person who had tested positive earlier, this person has infected 17 of his close contacts"
 2070,,02/04/2020,,,Ramganj,Jaipur,Rajasthan,,Hospitalized,02/04/2020,"Contacts of a person who had tested positive earlier, this person has infected 17 of his close contacts"
 2071,,02/04/2020,,,Ramganj,Jaipur,Rajasthan,,Hospitalized,02/04/2020,"Contacts of a person who had tested positive earlier, this person has infected 17 of his close contacts"
-2072,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2073,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2074,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2075,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2076,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2077,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2078,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2079,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2080,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2081,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2082,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2083,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2084,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2085,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2086,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2087,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2088,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2089,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2090,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2091,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2092,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
+2072,,02/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,02/04/2020,
+2073,,02/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,02/04/2020,
+2074,,02/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,02/04/2020,
+2075,,02/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,02/04/2020,
+2076,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2077,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2078,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2079,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2080,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2081,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2082,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2083,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2084,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2085,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2086,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2087,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2088,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2089,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2090,,02/04/2020,,,,Y.S.R.,Andhra Pradesh,,Hospitalized,02/04/2020,
+2091,,02/04/2020,,,,Chittoor,Andhra Pradesh,,Hospitalized,02/04/2020,
+2092,,02/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,02/04/2020,
 2093,,02/04/2020,,,,Lohit,Arunachal Pradesh,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
 2094,,02/04/2020,52,M,,Mumbai,Maharashtra,,Hospitalized,02/04/2020,2nd case confirmed in Dharavi
 2095,,02/04/2020,,,,,Rajasthan,,Hospitalized,02/04/2020,
@@ -2219,81 +2219,81 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 2217,,02/04/2020,,,,Kozhikode,Kerala,,Hospitalized,02/04/2020,
 2218,,02/04/2020,,,,Kannur,Kerala,,Hospitalized,02/04/2020,
 2219,,02/04/2020,,,,Thiruvananthapuram,Kerala,,Hospitalized,02/04/2020,
-2220,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2221,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2222,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2223,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2224,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2225,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2226,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2227,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2228,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2229,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2230,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2231,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2232,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2233,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2234,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2235,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2236,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2237,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2238,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2239,,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2240,,02/04/2020,,,,Erode,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2241,,02/04/2020,,,,Erode,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2242,,02/04/2020,,,,Erode,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2243,,02/04/2020,,,,Erode,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2244,,02/04/2020,,,,Erode,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2245,,02/04/2020,,,,Erode,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2246,,02/04/2020,,,,Tirunelveli,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2247,,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2248,,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2249,,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2250,,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2251,,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2252,,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2253,,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2254,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2255,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2256,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2257,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2258,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2259,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2260,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2261,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2262,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2263,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2264,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2265,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2266,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2267,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2268,,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2269,,02/04/2020,,,,Tirupathur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2270,,02/04/2020,,,,Tirupathur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2271,,02/04/2020,,,,Tirupathur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2272,,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2273,,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2274,,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2275,,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2276,,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2277,,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2278,,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2279,,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2280,,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2281,,02/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2282,,02/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2283,,02/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2284,,02/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2285,,02/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2286,,02/04/2020,,,,Ranipet,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2287,,02/04/2020,,,,Ranipet,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2288,,02/04/2020,,,,Ranipet,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2289,,02/04/2020,,,,Ranipet,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2290,,02/04/2020,,,,Thoothukkudi,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2291,,02/04/2020,,,,Thoothukkudi,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2292,,02/04/2020,,,,Ramanathapuram,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2293,,02/04/2020,,,,Ramanathapuram,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
-2294,,02/04/2020,,,,Thiruvallur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2220,TN-P263,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Contact with Covid Positive
+2221,TN-P264,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2222,TN-P265,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2223,TN-P266,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2224,TN-P267,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2225,TN-P268,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2226,TN-P269,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2227,TN-P270,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2228,TN-P271,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2229,TN-P272,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2230,TN-P273,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2231,TN-P274,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2232,TN-P275,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2233,TN-P276,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2234,TN-P277,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2235,TN-P278,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2236,TN-P279,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2237,TN-P280,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2238,TN-P281,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2239,TN-P282,02/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2240,TN-P283,02/04/2020,,,,Erode,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2241,TN-P284,02/04/2020,,,,Erode,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2242,TN-P285,02/04/2020,,,,Erode,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2243,TN-P286,02/04/2020,,,,Erode,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2244,TN-P287,02/04/2020,,,,Erode,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2245,TN-P288,02/04/2020,,,,Erode,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2246,TN-P298,02/04/2020,,,,Tirunelveli,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2247,TN-P256,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2248,TN-P257,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2249,TN-P258,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2250,TN-P259,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2251,TN-P260,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2252,TN-P261,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2253,TN-P262,02/04/2020,,,,Chengalpattu,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2254,TN-P240,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2255,TN-P241,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2256,TN-P242,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2257,TN-P243,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2258,TN-P244,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2259,TN-P245,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2260,TN-P246,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2261,TN-P247,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2262,TN-P248,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2263,TN-P249,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2264,TN-P250,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2265,TN-P251,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2266,TN-P252,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2267,TN-P253,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2268,TN-P254,02/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2269,TN-P293,02/04/2020,,,,Tirupathur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2270,TN-P294,02/04/2020,,,,Tirupathur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2271,TN-P295,02/04/2020,,,,Tirupathur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2272,TN-P301,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2273,TN-P302,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2274,TN-P303,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2275,TN-P304,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2276,TN-P305,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2277,TN-P306,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2278,TN-P307,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2279,TN-P308,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2280,TN-P309,02/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2281,TN-P235,02/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2282,TN-P236,02/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2283,TN-P237,02/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2284,TN-P238,02/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2285,TN-P239,02/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2286,TN-P289,02/04/2020,,,,Ranipet,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2287,TN-P290,02/04/2020,,,,Ranipet,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2288,TN-P291,02/04/2020,,,,Ranipet,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2289,TN-P292,02/04/2020,,,,Ranipet,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2290,TN-P296,02/04/2020,,,,Thoothukkudi,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2291,TN-P297,02/04/2020,,,,Thoothukkudi,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2292,TN-P299,02/04/2020,,,,Ramanathapuram,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2293,TN-P300,02/04/2020,,,,Ramanathapuram,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
+2294,TN-P255,02/04/2020,,,,Thiruvallur,Tamil Nadu,,Hospitalized,02/04/2020,Attended Delhi Religious Conference
 2295,,02/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,02/04/2020,
 2296,,02/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,02/04/2020,
 2297,,02/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,02/04/2020,
@@ -2516,12 +2516,12 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 2514,,02/04/2020,,,,Gaya,Bihar,,Hospitalized,02/04/2020,Contact with Positive
 2515,,02/04/2020,,,,Gaya,Bihar,,Hospitalized,02/04/2020,Contact with Positive
 2516,,02/04/2020,,,,Saran,Bihar,,Hospitalized,02/04/2020,Travelled from UK
-2517,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2518,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2519,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2520,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2521,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
-2522,,02/04/2020,,,,,Andhra Pradesh,,Hospitalized,02/04/2020,
+2517,,02/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,02/04/2020,
+2518,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2519,,02/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,02/04/2020,
+2520,,02/04/2020,,,,West Godavari,Andhra Pradesh,,Hospitalized,02/04/2020,
+2521,,02/04/2020,,,,West Godavari,Andhra Pradesh,,Hospitalized,02/04/2020,
+2522,,02/04/2020,,,,Y.S.R.,Andhra Pradesh,,Hospitalized,02/04/2020,
 2523,,02/04/2020,,,,Ahmadnagar,Maharashtra,,Hospitalized,02/04/2020,
 2524,,02/04/2020,,,,Ahmadnagar,Maharashtra,,Hospitalized,02/04/2020,
 2525,,02/04/2020,,,Pimpri-Chinchwad,Pune,Maharashtra,,Hospitalized,02/04/2020,
@@ -2577,11 +2577,533 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 2575,,03/04/2020,,,,Visakhapatnam,Andhra Pradesh,,Hospitalized,03/04/2020,
 2576,,03/04/2020,,,,Visakhapatnam,Andhra Pradesh,,Hospitalized,03/04/2020,
 2577,,03/04/2020,,,,Visakhapatnam,Andhra Pradesh,,Hospitalized,03/04/2020,
-2578,,03/04/2020,,,,Kadapa,Andhra Pradesh,,Hospitalized,03/04/2020,
-2579,,03/04/2020,,,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,
-2580,,03/04/2020,,,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,
-2581,,03/04/2020,,,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,
-2582,,03/04/2020,,,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,
-2583,,03/04/2020,,,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,
-2584,,03/04/2020,,,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,
-2585,,03/04/2020,,,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,
+2578,,03/04/2020,,,,Y.S.R.,Andhra Pradesh,,Hospitalized,03/04/2020,
+2579,,03/04/2020,17,M,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,Local Transmission
+2580,,03/04/2020,60,F,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,Local Transmission
+2581,,03/04/2020,35,M,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,Local Transmission
+2582,,03/04/2020,30,F,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,Local Transmission
+2583,,03/04/2020,7,F,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,Local Transmission
+2584,,03/04/2020,68,M,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,Travel HIstory to Delhi
+2585,,03/04/2020,65,M,Ahmadabad,Ahmadabad,Gujarat,,Hospitalized,03/04/2020,Local Transmission
+2586,KA-P125,03/04/2020,75,M,,Bagalkote,Karnataka,,Deceased,03/04/2020,
+2587,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2588,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2589,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2590,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2591,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2592,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2593,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2594,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2595,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2596,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2597,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2598,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2599,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2600,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2601,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2602,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2603,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2604,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2605,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2606,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2607,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2608,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2609,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2610,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2611,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2612,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2613,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2614,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2615,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2616,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2617,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2618,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2619,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2620,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2621,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2622,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2623,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2624,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2625,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2626,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2627,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2628,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2629,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2630,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+2631,,03/04/2020,,,,Gurugram,Haryana,,Hospitalized,03/04/2020,Belongs to MH
+2632,,03/04/2020,,,,Gurugram,Haryana,,Hospitalized,03/04/2020,Belongs to MH
+2633,,03/04/2020,,,,Gurugram,Haryana,,Hospitalized,03/04/2020,Belongs to UP
+2634,,03/04/2020,,,,Gurugram,Haryana,,Hospitalized,03/04/2020,
+2635,,03/04/2020,,,,Gurugram,Haryana,,Hospitalized,03/04/2020,
+2636,,03/04/2020,,,,Nuh,Haryana,,Hospitalized,03/04/2020,Belongs to Kerala
+2637,,03/04/2020,,,,Nuh,Haryana,,Hospitalized,03/04/2020,Belongs to Kerala
+2638,,03/04/2020,,,,Nuh,Haryana,,Hospitalized,03/04/2020,Belongs to Kerala
+2639,,03/04/2020,,,,Cuttack,Odisha,,Hospitalized,03/04/2020,Travelled to Delhi
+2640,,03/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,03/04/2020,Evacuees from Iran (Jaisalmer army base camp)
+2641,,03/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,03/04/2020,Evacuees from Iran (Jaisalmer army base camp)
+2642,,03/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,03/04/2020,Evacuees from Iran (Jaisalmer army base camp)
+2643,,03/04/2020,,,,Udaipur,Rajasthan,,Hospitalized,03/04/2020,
+2644,,03/04/2020,,,,Udaipur,Rajasthan,,Hospitalized,03/04/2020,
+2645,,03/04/2020,,,,Udaipur,Rajasthan,,Hospitalized,03/04/2020,
+2646,,03/04/2020,,,,Dausa,Rajasthan,,Hospitalized,03/04/2020,
+2647,,03/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,03/04/2020,
+2648,,03/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,03/04/2020,
+2649,,03/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,03/04/2020,
+2650,,03/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,03/04/2020,
+2651,,03/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,03/04/2020,
+2652,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2653,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2654,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2655,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2656,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2657,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2658,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2659,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2660,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2661,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2662,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2663,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2664,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2665,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2666,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2667,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2668,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2669,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2670,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2671,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2672,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2673,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2674,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2675,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2676,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2677,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2678,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2679,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2680,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2681,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2682,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2683,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2684,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2685,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2686,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2687,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2688,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2689,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2690,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2691,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2692,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2693,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2694,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2695,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2696,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2697,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2698,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2699,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2700,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2701,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2702,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2703,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2704,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2705,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2706,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2707,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2708,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2709,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2710,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2711,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2712,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2713,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2714,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2715,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2716,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2717,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2718,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2719,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2720,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2721,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2722,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2723,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2724,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2725,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2726,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2727,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2728,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2729,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2730,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2731,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2732,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2733,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2734,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2735,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2736,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2737,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2738,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2739,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2740,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2741,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2742,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+2743,TN-P310,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2744,TN-P311,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Travelled to US
+2745,TN-P312,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,No history of travel
+2746,TN-P313,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2747,TN-P314,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2748,TN-P315,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2749,TN-P316,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2750,TN-P317,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2751,TN-P318,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2752,TN-P319,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2753,TN-P320,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2754,TN-P321,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2755,TN-P322,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2756,TN-P323,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2757,TN-P324,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2758,TN-P325,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2759,TN-P326,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2760,TN-P327,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2761,TN-P328,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2762,TN-P329,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2763,TN-P330,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2764,TN-P331,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2765,TN-P332,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2766,TN-P333,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2767,TN-P334,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2768,TN-P335,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2769,TN-P336,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2770,TN-P337,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2771,TN-P338,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2772,TN-P339,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2773,TN-P340,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2774,TN-P341,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2775,TN-P342,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2776,TN-P343,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2777,TN-P344,03/04/2020,,,,Chennai,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2778,TN-P345,03/04/2020,,,,Kancheepuram,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2779,TN-P346,03/04/2020,,,,Namakkal,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2780,TN-P347,03/04/2020,,,,Namakkal,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2781,TN-P348,03/04/2020,,,,Namakkal,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2782,TN-P349,03/04/2020,,,,Salem,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2783,TN-P350,03/04/2020,,,,Salem,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2784,TN-P351,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2785,TN-P352,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2786,TN-P353,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2787,TN-P354,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2788,TN-P355,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2789,TN-P356,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2790,TN-P357,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2791,TN-P358,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2792,TN-P359,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2793,TN-P360,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2794,TN-P361,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2795,TN-P362,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2796,TN-P363,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2797,TN-P364,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2798,TN-P365,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2799,TN-P366,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2800,TN-P367,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2801,TN-P368,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2802,TN-P369,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2803,TN-P370,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2804,TN-P371,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2805,TN-P372,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2806,TN-P373,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2807,TN-P374,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2808,TN-P375,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2809,TN-P376,03/04/2020,,,,Dindigul,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2810,TN-P377,03/04/2020,,,,Theni,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2811,TN-P378,03/04/2020,,,,Viluppuram,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2812,TN-P379,03/04/2020,,,,Viluppuram,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2813,TN-P380,03/04/2020,,,,Viluppuram,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2814,TN-P381,03/04/2020,,,,Viluppuram,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2815,TN-P382,03/04/2020,,,,Viluppuram,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2816,TN-P383,03/04/2020,,,,Viluppuram,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2817,TN-P384,03/04/2020,,,,Viluppuram,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2818,TN-P385,03/04/2020,,,,Viluppuram,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2819,TN-P386,03/04/2020,,,,Viluppuram,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2820,TN-P387,03/04/2020,,,,Viluppuram,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2821,TN-P388,03/04/2020,,,,Nagapattinam,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2822,TN-P389,03/04/2020,,,,Nagapattinam,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2823,TN-P390,03/04/2020,,,,Nagapattinam,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2824,TN-P391,03/04/2020,,,,Nagapattinam,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2825,TN-P392,03/04/2020,,,,Nagapattinam,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2826,TN-P393,03/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2827,TN-P394,03/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2828,TN-P395,03/04/2020,,,,Karur,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2829,TN-P396,03/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2830,TN-P397,03/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2831,TN-P398,03/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2832,TN-P399,03/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2833,TN-P400,03/04/2020,,,,Thiruvarur,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2834,TN-P401,03/04/2020,,,,Tirunelveli,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2835,TN-P402,03/04/2020,,,,Tirunelveli,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2836,TN-P403,03/04/2020,,,,Tirunelveli,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2837,TN-P404,03/04/2020,,,,Tirunelveli,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2838,TN-P405,03/04/2020,,,,Tirunelveli,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2839,TN-P406,03/04/2020,,,,Tirunelveli,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2840,TN-P407,03/04/2020,,,,Thoothukkudi,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2841,TN-P408,03/04/2020,,,,Thoothukkudi,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2842,TN-P409,03/04/2020,,,,Thoothukkudi,Tamil Nadu,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2843,TN-P410,03/04/2020,,,,Thoothukkudi,Tamil Nadu,,Hospitalized,03/04/2020,
+2844,TN-P411,03/04/2020,,,,Virudhunagar,Tamil Nadu,,Hospitalized,03/04/2020,
+2845,,03/04/2020,,,,Nalbari,Assam,,Hospitalized,03/04/2020,Details awaited
+2846,,03/04/2020,,,,Nalbari,Assam,,Hospitalized,03/04/2020,Details awaited
+2847,,03/04/2020,,,,Nalbari,Assam,,Hospitalized,03/04/2020,Details awaited
+2848,,03/04/2020,,,,South Salmara Mancachar,Assam,,Hospitalized,03/04/2020,Details awaited
+2849,,03/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,03/04/2020,
+2850,,03/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,03/04/2020,
+2851,,03/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,03/04/2020,
+2852,,03/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,03/04/2020,
+2853,,03/04/2020,,,,Jammu,Jammu and Kashmir,,Hospitalized,03/04/2020,
+2854,,03/04/2020,,,,Amritsar,Punjab,,Hospitalized,03/04/2020,Contact of Positive case
+2855,,03/04/2020,,,,Amritsar,Punjab,,Hospitalized,03/04/2020,Contact of Positive case
+2856,,03/04/2020,,,,Amritsar,Punjab,,Hospitalized,03/04/2020,Details awaited
+2857,,03/04/2020,,,,Ludhiana,Punjab,,Hospitalized,03/04/2020,Details awaited
+2858,,03/04/2020,,,,Thrissur,Kerala,,Hospitalized,03/04/2020,
+2859,,03/04/2020,,,,Kannur,Kerala,,Hospitalized,03/04/2020,
+2860,,03/04/2020,,,,Kasaragod,Kerala,,Hospitalized,03/04/2020,
+2861,,03/04/2020,,,,Kasaragod,Kerala,,Hospitalized,03/04/2020,
+2862,,03/04/2020,,,,Kasaragod,Kerala,,Hospitalized,03/04/2020,
+2863,,03/04/2020,,,,Kasaragod,Kerala,,Hospitalized,03/04/2020,
+2864,,03/04/2020,,,,Kasaragod,Kerala,,Hospitalized,03/04/2020,
+2865,,03/04/2020,,,,Kasaragod,Kerala,,Hospitalized,03/04/2020,
+2866,,03/04/2020,,,,Kasaragod,Kerala,,Hospitalized,03/04/2020,
+2867,,03/04/2020,,,,Morena,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2868,,03/04/2020,,,,Morena,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2869,,03/04/2020,,,,Morena,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2870,,03/04/2020,,,,Morena,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2871,,03/04/2020,,,,Morena,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2872,,03/04/2020,,,,Morena,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2873,,03/04/2020,,,,Morena,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2874,,03/04/2020,,,,Morena,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2875,,03/04/2020,,,,Morena,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2876,,03/04/2020,,,,Morena,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2877,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2878,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2879,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2880,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2881,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2882,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2883,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2884,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2885,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2886,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2887,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2888,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,Details awaited
+2889,KA-P126,03/04/2020,70,M,,Belagavi,Karnataka,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2890,KA-P127,03/04/2020,26,M,,Belagavi,Karnataka,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2891,KA-P128,03/04/2020,20,M,,Belagavi,Karnataka,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2892,,03/04/2020,,,Bomikhal,Khordha,Odisha,,Hospitalized,03/04/2020,
+2893,,03/04/2020,,,Bomikhal,Khordha,Odisha,,Hospitalized,03/04/2020,
+2894,,03/04/2020,,,Bomikhal,Khordha,Odisha,,Hospitalized,03/04/2020,
+2895,,03/04/2020,,,,Bharatpur,Rajasthan,,Hospitalized,03/04/2020,
+2896,,03/04/2020,,,,Bharatpur,Rajasthan,,Hospitalized,03/04/2020,
+2897,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2898,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2899,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2900,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2901,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2902,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2903,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2904,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2905,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2906,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2907,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2908,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2909,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2910,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2911,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2912,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2913,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2914,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2915,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2916,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2917,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2918,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2919,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2920,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2921,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2922,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2923,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2924,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2925,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2926,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2927,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2928,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2929,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2930,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2931,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2932,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2933,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2934,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2935,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2936,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2937,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2938,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2939,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2940,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2941,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2942,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2943,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2944,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2945,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2946,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2947,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2948,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2949,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2950,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2951,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2952,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2953,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2954,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2955,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2956,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2957,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2958,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2959,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2960,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2961,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2962,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2963,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2964,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2965,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2966,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2967,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2968,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2969,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2970,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2971,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,
+2972,,03/04/2020,,,,Karnal,Haryana,,Hospitalized,03/04/2020,
+2973,,03/04/2020,35,,,Siwan,Bihar,,Hospitalized,03/04/2020,Travelled from Baharain
+2974,,03/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2975,,03/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+2976,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2977,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2978,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2979,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2980,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2981,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2982,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2983,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2984,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2985,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2986,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2987,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2988,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2989,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2990,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2991,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2992,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2993,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2994,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2995,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2996,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2997,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2998,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+2999,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3000,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3001,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3002,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3003,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3004,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3005,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3006,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3007,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3008,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3009,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3010,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3011,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3012,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3013,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3014,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3015,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3016,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3017,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3018,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3019,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3020,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3021,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3022,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3023,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3024,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3025,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3026,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3027,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3028,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3029,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3030,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3031,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3032,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3033,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3034,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3035,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3036,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3037,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3038,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3039,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3040,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3041,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3042,,03/04/2020,,,,,Maharashtra,,Hospitalized,03/04/2020,
+3043,,03/04/2020,37,M,,Gaya,Bihar,,Hospitalized,03/04/2020,Travelled from Dubai
+3044,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+3045,,03/04/2020,,,,,Delhi,,Hospitalized,03/04/2020,
+3046,,03/04/2020,,,,,Uttarakhand,,Hospitalized,03/04/2020,
+3047,,03/04/2020,,,,,Uttarakhand,,Hospitalized,03/04/2020,
+3048,,03/04/2020,,,,,Uttarakhand,,Hospitalized,03/04/2020,
+3049,,03/04/2020,,,,,Uttarakhand,,Hospitalized,03/04/2020,
+3050,,03/04/2020,,,,,Uttarakhand,,Hospitalized,03/04/2020,
+3051,,03/04/2020,,,,,Uttarakhand,,Hospitalized,03/04/2020,
+3052,,03/04/2020,,,,Kargil,Ladakh,,Hospitalized,03/04/2020,
+3053,,03/04/2020,,,,East Godavari,Andhra Pradesh,,Hospitalized,03/04/2020,
+3054,,03/04/2020,,,,East Godavari,Andhra Pradesh,,Hospitalized,03/04/2020,
+3055,,03/04/2020,,,,Visakhapatnam,Andhra Pradesh,,Hospitalized,03/04/2020,
+3056,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3057,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3058,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3059,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3060,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3061,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3062,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3063,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3064,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3065,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3066,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3067,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3068,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3069,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3070,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3071,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3072,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3073,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3074,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3075,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3076,,03/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,03/04/2020,
+3077,,03/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,03/04/2020,
+3078,,03/04/2020,,,,Alwar,Rajasthan,,Hospitalized,03/04/2020,
+3079,,03/04/2020,,,,Alwar,Rajasthan,,Hospitalized,03/04/2020,
+3080,,03/04/2020,,,,Alwar,Rajasthan,,Hospitalized,03/04/2020,
+3081,,03/04/2020,,,,,Rajasthan,,Hospitalized,03/04/2020,Evacuees from Iran
+3082,,03/04/2020,,,,,Rajasthan,,Hospitalized,03/04/2020,Evacuees from Iran
+3083,,03/04/2020,,,,,Rajasthan,,Hospitalized,03/04/2020,Evacuees from Iran
+3084,,03/04/2020,,,,,Rajasthan,,Hospitalized,03/04/2020,Evacuees from Iran
+3085,,03/04/2020,,,,,Rajasthan,,Hospitalized,03/04/2020,Evacuees from Iran
+3086,,03/04/2020,,,,,Rajasthan,,Hospitalized,03/04/2020,Evacuees from Iran
+3087,,03/04/2020,,F,,Khordha,Odisha,,Hospitalized,03/04/2020,"Wife of Surya Nagar Patient, ID Unknown"
+3088,,03/04/2020,,F,,Khordha,Odisha,,Hospitalized,03/04/2020,"Daughter of Surya Nagar Patient, ID Unknown"
+3089,,03/04/2020,,,,Khordha,Odisha,,Hospitalized,03/04/2020,"Tenant of Surya Nagar Patient, ID Unknown"
+3090,,03/04/2020,,,,Khordha,Odisha,,Hospitalized,03/04/2020,"Tenant of Surya Nagar Patient, ID Unknown"
+3091,,03/04/2020,,,,Khordha,Odisha,,Hospitalized,03/04/2020,"Tenant of Surya Nagar Patient, ID Unknown"
+3092,,03/04/2020,,,,Khordha,Odisha,,Hospitalized,03/04/2020,"Tenant of Surya Nagar Patient, ID Unknown"
+3093,,03/04/2020,,,,Khordha,Odisha,,Hospitalized,03/04/2020,"Tenant of Surya Nagar Patient, ID Unknown"
+3094,,03/04/2020,,,,Puri,Odisha,,Hospitalized,03/04/2020,
+3095,,03/04/2020,,,,Jajapur,Odisha,,Hospitalized,03/04/2020,
+3096,,03/04/2020,,,,Bhadrak,Odisha,,Hospitalized,03/04/2020,
+3097,,03/04/2020,,,,Bhadrak,Odisha,,Hospitalized,03/04/2020,
+3098,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3099,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3100,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3101,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3102,,03/04/2020,,,,,Madhya Pradesh,,Hospitalized,03/04/2020,
+3103,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+3104,,03/04/2020,,,,,Uttar Pradesh,,Hospitalized,03/04/2020,
+3105,,03/04/2020,,,,Kamrup,Assam,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+3106,,03/04/2020,,,,Kamrup Metropolitan,Assam,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
+3107,,03/04/2020,,,,Morigaon,Assam,,Hospitalized,03/04/2020,Attended Delhi Religious Conference
