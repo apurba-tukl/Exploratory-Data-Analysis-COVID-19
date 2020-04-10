@@ -699,7 +699,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 697,,26/03/2020,,,,Kannur,Kerala,India,Recovered,03/04/2020,Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road
 698,,26/03/2020,,,,Kannur,Kerala,India,Recovered,03/04/2020,Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road
 699,,26/03/2020,,,,Kannur,Kerala,India,Recovered,03/04/2020,Travelled from Dubai to Bangalore (Emirates EK 566) and from there by Road
-700,,26/03/2020,,,,Kannur,Kerala,India,Hospitalized,26/03/2020,Travelled from Dubai to Bangalore (Emirates EK 566) and from there by Road
+700,,26/03/2020,,,,Kannur,Kerala,India,Recovered,08/04/2020,Travelled from Dubai to Bangalore (Emirates EK 566) and from there by Road
 701,,26/03/2020,,,,Kannur,Kerala,India,Hospitalized,26/03/2020,Travelled from Dubai  Air India AI 938 on March 19
 702,,26/03/2020,,,,Kannur,Kerala,India,Hospitalized,26/03/2020,Travelled from Dubai  Air India AI 938 on March 17
 703,,26/03/2020,,,,Kannur,Kerala,India,Hospitalized,26/03/2020,Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road
@@ -714,7 +714,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 712,,26/03/2020,,M,,Idukki,Kerala,India,Recovered,03/04/2020,"Politican with no travel history or contact history, details waited"
 713,,26/03/2020,32,M,,Thrissur,Kerala,India,Hospitalized,26/03/2020,Wife of P469
 714,,26/03/2020,21,M,,Thrissur,Kerala,,Hospitalized,26/03/2020,Details Awaited
-715,,26/03/2020,,,,Wayanad,Kerala,India,Hospitalized,26/03/2020,Travelled from Abhudhabi EY 254 on 22 March landed at Kozhikode Airport
+715,,26/03/2020,,,,Wayanad,Kerala,India,Recovered,08/04/2020,Travelled from Abhudhabi EY 254 on 22 March landed at Kozhikode Airport
 716,TN-P28,26/03/2020,24,M,,Chennai,Tamil Nadu,India,Hospitalized,26/03/2020,Travelled from London
 717,TN-P29,26/03/2020,65,F,,Chennai,Tamil Nadu,India,Hospitalized,26/03/2020,Grandmother of TN-P28
 718,,26/03/2020,20,M,,Patna,Bihar,India,Hospitalized,26/03/2020,No travel history
@@ -857,8 +857,8 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 855,,27/03/2020,,,,South Andaman,Andaman and Nicobar Islands,India,Hospitalized,27/03/2020,Travelled from Kolkata
 856,,27/03/2020,,,,Ghaziabad,Uttar Pradesh,,Hospitalized,27/03/2020,Details awaited
 857,,27/03/2020,,,,Ghaziabad,Uttar Pradesh,,Hospitalized,27/03/2020,Details awaited
-858,,27/03/2020,,,,Kheri,Uttar Pradesh,,Hospitalized,27/03/2020,Details awaited
-859,,27/03/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,27/03/2020,Details awaited
+858,,27/03/2020,,,,Lucknow,Uttar Pradesh,,Hospitalized,27/03/2020,Details awaited
+859,,27/03/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,27/03/2020,Travelled to Delhi
 860,KA-P63,27/03/2020,18,M,Davangere,Davanagere,Karnataka,India,Hospitalized,27/03/2020,"Travel history to Paris, France"
 861,KA-P64,27/03/2020,21,M,,Dakshina Kannada,Karnataka,India,Hospitalized,27/03/2020,Travel history to Dubai
 862,,27/03/2020,11,M,,Nadia,West Bengal,India,Hospitalized,27/03/2020,"Family, History of contact to a positive case in Delhi who came from UK on 16th March"
@@ -1070,7 +1070,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 1068,,29/03/2020,28,,,Kasaragod,Kerala,,Hospitalized,29/03/2020,Travelled from Dubai
 1069,,29/03/2020,39,,,Kasaragod,Kerala,,Hospitalized,29/03/2020,Travelled from Dubai
 1070,,29/03/2020,,,,Ernakulam,Kerala,,Hospitalized,29/03/2020,Health worker
-1071,,29/03/2020,,,,Thrissur,Kerala,,Hospitalized,29/03/2020,
+1071,,29/03/2020,,,,Thrissur,Kerala,,Hospitalized,29/03/2020,Details awaited
 1072,KL-PL-P5,29/03/2020,,,,Palakkad,Kerala,,Hospitalized,29/03/2020,Travelled from Dubai landed at Kochi airport
 1073,KL-TV-R10,29/03/2020,68,M,,Thiruvananthapuram,Kerala,,Deceased,31/03/2020,Details awaited
 1074,KL-ML-P9,29/03/2020,,,,Malappuram,Kerala,,Hospitalized,29/03/2020,Travelled from Dubai Spice Jet SG 054
@@ -1259,7 +1259,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 1257,,30/03/2020,,,,Kannur,Kerala,,Hospitalized,30/03/2020,Details awaited
 1258,,30/03/2020,,,,Kannur,Kerala,,Hospitalized,30/03/2020,Details awaited
 1259,,30/03/2020,,,,Wayanad,Kerala,,Hospitalized,30/03/2020,Details awaited
-1260,,30/03/2020,,,,Wayanad,Kerala,,Hospitalized,30/03/2020,Details awaited
+1260,,30/03/2020,,,,Wayanad,Kerala,,Recovered,08/04/2020,Details awaited
 1261,,30/03/2020,,,,Idukki,Kerala,,Hospitalized,30/03/2020,Friend of P713
 1262,,30/03/2020,,F,,Idukki,Kerala,,Hospitalized,30/03/2020,Teacher who had come in contact with P713
 1263,,30/03/2020,,,,,Jammu and Kashmir,,Hospitalized,30/03/2020,Details awaited
@@ -1447,7 +1447,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 1445,,31/03/2020,56,F,,Kasaragod,Kerala,,Hospitalized,31/03/2020,Contact transmission
 1446,,31/03/2020,23,M,,Kasaragod,Kerala,,Hospitalized,31/03/2020,Contact transmission
 1447,KL-TV-R9,31/03/2020,,,,Thiruvananthapuram,Kerala,,Hospitalized,31/03/2020,Details awaited
-1448,KL-TV-R10,31/03/2020,,,,Thiruvananthapuram,Kerala,,Hospitalized,31/03/2020,Details awaited
+1448,,31/03/2020,,,,Thiruvananthapuram,Kerala,,Hospitalized,31/03/2020,Details awaited
 1449,KL-KL-P3,31/03/2020,43,F,,Kollam,Kerala,,Hospitalized,31/03/2020,Sister in law of  P809
 1450,,31/03/2020,,,,Thrissur,Kerala,,Hospitalized,31/03/2020,Details awaited
 1451,,31/03/2020,23,,,Kannur,Kerala,,Hospitalized,31/03/2020,Travelled from Dubai landed at Kozhikode
@@ -1712,7 +1712,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 1710,AP-P79,01/04/2020,35,M,,Y.S.R.,Andhra Pradesh,,Hospitalized,01/04/2020,Travelled to Delhi
 1711,,01/04/2020,,,,Begusarai,Bihar,,Hospitalized,01/04/2020,Details Awaited
 1712,,01/04/2020,,,,Nalanda,Bihar,,Hospitalized,01/04/2020,Details Awaited
-1713,,01/04/2020,,,,Ludhiana,Punjab,,Hospitalized,01/04/2020,Contact of a positive case of Ludhiana
+1713,,01/04/2020,72,F,,Ludhiana,Punjab,India,Hospitalized,01/04/2020,Contact of a positive case of Ludhiana
 1714,KA-P102,01/04/2020,24,M,,Bengaluru,Karnataka,India,Hospitalized,01/04/2020,Details Awaited
 1715,KA-P103,01/04/2020,37,M,Nanjangud,Mysuru,Karnataka,India,Hospitalized,01/04/2020,Pharma company employee
 1716,KA-P104,01/04/2020,27,M,Nanjangud,Mysuru,Karnataka,India,Hospitalized,01/04/2020,Pharma company employee
@@ -2096,7 +2096,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 2094,,02/04/2020,52,M,,Mumbai,Maharashtra,,Hospitalized,02/04/2020,2nd case confirmed in Dharavi
 2095,,02/04/2020,,,,Dhaulpur,Rajasthan,,Hospitalized,02/04/2020,Details awaited
 2096,,02/04/2020,,,,Udaipur,Rajasthan,,Hospitalized,02/04/2020,Details awaited
-2097,,02/04/2020,65,M,,Hoshiarpur,Punjab,,Hospitalized,02/04/2020,"Primary contact of UK-returned woman, his sister"
+2097,,02/04/2020,65,M,,Hoshiarpur,Punjab,India,Hospitalized,02/04/2020,"Primary contact of UK-returned woman, his sister"
 2098,,02/04/2020,,,,Palwal,Haryana,India,Hospitalized,02/04/2020,
 2099,,02/04/2020,,,,Palwal,Haryana,India,Hospitalized,02/04/2020,
 2100,,02/04/2020,,,,Palwal,Haryana,India,Hospitalized,02/04/2020,
@@ -2213,7 +2213,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 2211,,02/04/2020,58,,Thodupuzha,Idukki,Kerala,,Hospitalized,02/04/2020,Travelled to Delhi
 2212,,02/04/2020,27,F,,Kollam,Kerala,,Hospitalized,02/04/2020,"Travelled from Qatar,Pregnant woman"
 2213,,02/04/2020,28,,,Kollam,Kerala,,Hospitalized,02/04/2020,Details awaited
-2214,,02/04/2020,36,,,Thrissur,Kerala,,Hospitalized,02/04/2020,Travelled to Delhi
+2214,KL-TS-P12,02/04/2020,36,,,Thrissur,Kerala,,Hospitalized,02/04/2020,Travelled to Delhi
 2215,,02/04/2020,,,,Pathanamthitta,Kerala,,Hospitalized,02/04/2020,
 2216,,02/04/2020,,,,Malappuram,Kerala,,Hospitalized,02/04/2020,
 2217,,02/04/2020,,,,Kozhikode,Kerala,,Hospitalized,02/04/2020,
@@ -2604,32 +2604,32 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 2602,,03/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,03/04/2020,
 2603,,03/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,03/04/2020,
 2604,,03/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,03/04/2020,
-2605,,03/04/2020,,,,Hardoi,Uttar Pradesh,,Hospitalized,03/04/2020,
-2606,,03/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,03/04/2020,
-2607,,03/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,03/04/2020,
-2608,,03/04/2020,,,,Shahjahanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2609,,03/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,03/04/2020,
-2610,,03/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,03/04/2020,
-2611,,03/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,03/04/2020,
-2612,,03/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,03/04/2020,
-2613,,03/04/2020,,,,Azamgarh,Uttar Pradesh,,Hospitalized,03/04/2020,
-2614,,03/04/2020,,,,Azamgarh,Uttar Pradesh,,Hospitalized,03/04/2020,
-2615,,03/04/2020,,,,Azamgarh,Uttar Pradesh,,Hospitalized,03/04/2020,
-2616,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2617,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2618,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2619,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2620,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2621,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2622,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2623,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2624,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2625,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2626,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2627,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,
-2628,,03/04/2020,,,,Pratapgarh,Uttar Pradesh,,Hospitalized,03/04/2020,
-2629,,03/04/2020,,,,Pratapgarh,Uttar Pradesh,,Hospitalized,03/04/2020,
-2630,,03/04/2020,,,,Hapur,Uttar Pradesh,,Hospitalized,03/04/2020,
+2605,,03/04/2020,,,,Hardoi,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2606,,03/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2607,,03/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2608,,03/04/2020,,,,Shahjahanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2609,,03/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2610,,03/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2611,,03/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2612,,03/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2613,,03/04/2020,,,,Azamgarh,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2614,,03/04/2020,,,,Azamgarh,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2615,,03/04/2020,,,,Azamgarh,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2616,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2617,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2618,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2619,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2620,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2621,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2622,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2623,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2624,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2625,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2626,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2627,,03/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2628,,03/04/2020,,,,Pratapgarh,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2629,,03/04/2020,,,,Pratapgarh,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
+2630,,03/04/2020,,,,Hapur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
 2631,,03/04/2020,,,,Gurugram,Haryana,India,Hospitalized,03/04/2020,Belongs to MH
 2632,,03/04/2020,,,,Gurugram,Haryana,India,Hospitalized,03/04/2020,Belongs to MH
 2633,,03/04/2020,,,,Gurugram,Haryana,India,Hospitalized,03/04/2020,Belongs to UP
@@ -2856,8 +2856,8 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 2854,,03/04/2020,,,,Amritsar,Punjab,India,Hospitalized,03/04/2020,Contact of Positive case
 2855,,03/04/2020,,,,Amritsar,Punjab,India,Hospitalized,03/04/2020,Contact of Positive case
 2856,,03/04/2020,,,,Patiala,Punjab,,Hospitalized,03/04/2020,Details awaited
-2857,,03/04/2020,,,,Ludhiana,Punjab,,Hospitalized,03/04/2020,Details awaited
-2858,,03/04/2020,,,,Thrissur,Kerala,,Hospitalized,03/04/2020,
+2857,,03/04/2020,69,F,,Ludhiana,Punjab,India,Hospitalized,03/04/2020,Travelled to Mohali
+2858,KL-TS-P13,03/04/2020,51,M,,Thrissur,Kerala,,Hospitalized,03/04/2020,Businessman who had been to Surat. Travelled from Suart to Delhi in flight 6E315 and then from there to Kochi in 6E5029
 2859,,03/04/2020,,,,Kannur,Kerala,,Hospitalized,03/04/2020,
 2860,,03/04/2020,,,,Kasaragod,Kerala,,Hospitalized,03/04/2020,
 2861,,03/04/2020,,,,Kasaragod,Kerala,,Hospitalized,03/04/2020,
@@ -2973,8 +2973,8 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 2971,,03/04/2020,,,,,Telangana,,Hospitalized,03/04/2020,Details awaited
 2972,,03/04/2020,,,,Karnal,Haryana,India,Hospitalized,03/04/2020,
 2973,,03/04/2020,35,,,Siwan,Bihar,,Hospitalized,03/04/2020,Travelled from Baharain
-2974,,03/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,03/04/2020,Travelled to Delhi
-2975,,03/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,03/04/2020,Travelled to Delhi
+2974,,03/04/2020,,,,S.A.S. Nagar,Punjab,India,Hospitalized,03/04/2020,Travelled to Delhi
+2975,,03/04/2020,,,,S.A.S. Nagar,Punjab,India,Hospitalized,03/04/2020,Travelled to Delhi
 2976,,03/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,03/04/2020,
 2977,,03/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,03/04/2020,
 2978,,03/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,03/04/2020,
@@ -3102,7 +3102,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 3100,,03/04/2020,,,,Morena,Madhya Pradesh,India,Hospitalized,03/04/2020,Relative of Dubai-returned couple
 3101,,03/04/2020,,,,Morena,Madhya Pradesh,India,Hospitalized,03/04/2020,Relative of Dubai-returned couple
 3102,,03/04/2020,,,,Morena,Madhya Pradesh,India,Hospitalized,03/04/2020,Relative of Dubai-returned couple
-3103,,03/04/2020,,,,Ghazipur,Uttar Pradesh,,Hospitalized,03/04/2020,
+3103,,03/04/2020,,,,Ghazipur,Uttar Pradesh,,Hospitalized,03/04/2020,Travelled to Delhi
 3104,,03/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,03/04/2020,
 3105,,03/04/2020,,,,Kamrup,Assam,,Hospitalized,03/04/2020,Travelled to Delhi
 3106,,03/04/2020,,,,Kamrup Metropolitan,Assam,,Hospitalized,03/04/2020,Travelled to Delhi
@@ -3205,9 +3205,9 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 3203,,04/04/2020,,,,Gandhinagar,Gujarat,India,Hospitalized,04/04/2020,Local Transmission
 3204,,04/04/2020,,,,Patan,Gujarat,,Hospitalized,04/04/2020,Visited Mumbai
 3205,,04/04/2020,,,,Rupnagar,Punjab,India,Hospitalized,04/04/2020,Organized Medical camp with participation of NRIs
-3206,,04/04/2020,,,,Mansa,Punjab,,Hospitalized,04/04/2020,Travelled to Delhi
-3207,,04/04/2020,,,,Mansa,Punjab,,Hospitalized,04/04/2020,Travelled to Delhi
-3208,,04/04/2020,,,,Mansa,Punjab,,Hospitalized,04/04/2020,Travelled to Delhi
+3206,,04/04/2020,,,,Mansa,Punjab,India,Hospitalized,04/04/2020,Travelled to Delhi
+3207,,04/04/2020,,,,Mansa,Punjab,India,Hospitalized,04/04/2020,Travelled to Delhi
+3208,,04/04/2020,,,,Mansa,Punjab,India,Hospitalized,04/04/2020,Travelled to Delhi
 3209,,04/04/2020,,,,Lakhimpur,Assam,,Hospitalized,04/04/2020,Travelled to Delhi
 3210,,04/04/2020,16,M,,Korba,Chhattisgarh,,Hospitalized,04/04/2020,Travelled to Delhi
 3211,,04/04/2020,,,,Bhiwani,Haryana,India,Hospitalized,04/04/2020,
@@ -3358,20 +3358,20 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 3356,,04/04/2020,,,,Varanasi,Uttar Pradesh,,Hospitalized,04/04/2020,
 3357,,04/04/2020,,,,Varanasi,Uttar Pradesh,,Hospitalized,04/04/2020,
 3358,,04/04/2020,,,,Varanasi,Uttar Pradesh,,Hospitalized,04/04/2020,
-3359,,04/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,04/04/2020,
-3360,,04/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,04/04/2020,
-3361,,04/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,04/04/2020,
+3359,,04/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3360,,04/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3361,,04/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
 3362,,04/04/2020,,,,Baghpat,Uttar Pradesh,,Hospitalized,04/04/2020,
-3363,,04/04/2020,,,,Ghazipur,Uttar Pradesh,,Hospitalized,04/04/2020,
-3364,,04/04/2020,,,,Ghazipur,Uttar Pradesh,,Hospitalized,04/04/2020,
-3365,,04/04/2020,,,,Pratapgarh,Uttar Pradesh,,Hospitalized,04/04/2020,
-3366,,04/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,04/04/2020,
-3367,,04/04/2020,,,,Banda,Uttar Pradesh,,Hospitalized,04/04/2020,
-3368,,04/04/2020,,,,Mahrajganj,Uttar Pradesh,,Hospitalized,04/04/2020,
-3369,,04/04/2020,,,,Mahrajganj,Uttar Pradesh,,Hospitalized,04/04/2020,
-3370,,04/04/2020,,,,Mahrajganj,Uttar Pradesh,,Hospitalized,04/04/2020,
-3371,,04/04/2020,,,,Mahrajganj,Uttar Pradesh,,Hospitalized,04/04/2020,
-3372,,04/04/2020,,,,Mahrajganj,Uttar Pradesh,,Hospitalized,04/04/2020,
+3363,,04/04/2020,,,,Ghazipur,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3364,,04/04/2020,,,,Ghazipur,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3365,,04/04/2020,,,,Pratapgarh,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3366,,04/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3367,,04/04/2020,,,,Banda,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3368,,04/04/2020,,,,Mahrajganj,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3369,,04/04/2020,,,,Mahrajganj,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3370,,04/04/2020,,,,Mahrajganj,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3371,,04/04/2020,,,,Mahrajganj,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3372,,04/04/2020,,,,Mahrajganj,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
 3373,,04/04/2020,,,,Nainital,Uttarakhand,,Hospitalized,04/04/2020,
 3374,,04/04/2020,,,,Nainital,Uttarakhand,,Hospitalized,04/04/2020,
 3375,,04/04/2020,,,,Nainital,Uttarakhand,,Hospitalized,04/04/2020,
@@ -3482,24 +3482,24 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 3480,,04/04/2020,,,,Faridabad,Haryana,India,Hospitalized,04/04/2020,
 3481,,04/04/2020,,,,Faridabad,Haryana,India,Hospitalized,04/04/2020,
 3482,,04/04/2020,,,,Amritsar,Punjab,India,Hospitalized,04/04/2020,Contact of Positive case
-3483,,04/04/2020,,,,Amritsar,Punjab,India,Hospitalized,04/04/2020,Contact of Positive case
-3484,,04/04/2020,,,,Amritsar,Punjab,India,Hospitalized,04/04/2020,Contact of Positive case
+3483,,04/04/2020,,F,,Amritsar,Punjab,India,Hospitalized,04/04/2020,"Contact of Positive case, a tailor"
+3484,,04/04/2020,,M,,Amritsar,Punjab,India,Hospitalized,04/04/2020,"Contact of Positive case, tailor's wife"
 3485,,04/04/2020,,,,S.A.S. Nagar,Punjab,India,Hospitalized,04/04/2020,Contact of Positive case
 3486,,04/04/2020,,,,S.A.S. Nagar,Punjab,India,Hospitalized,04/04/2020,Contact of Positive case
-3487,,04/04/2020,,,,Jalandhar,Punjab,India,Hospitalized,04/04/2020,Contact of Positive case
-3488,,04/04/2020,75,,,Pathankot,Punjab,,Hospitalized,04/04/2020,
+3487,,04/04/2020,,F,,Jalandhar,Punjab,India,Hospitalized,04/04/2020,Contact of Positive case
+3488,,04/04/2020,75,F,Sujjanpur,Pathankot,Punjab,India,Deceased,05/04/2020,
 3489,,04/04/2020,35,M,,Faridkot,Punjab,,Hospitalized,04/04/2020,
 3490,,04/04/2020,65,,Naugachia,Bhagalpur,Bihar,,Hospitalized,04/04/2020,Travelled from UK on 18/3/2020
 3491,,04/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,04/04/2020,Domestic Travel
 3492,,04/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,04/04/2020,Local Transmission
 3493,,04/04/2020,61,F,,Surat,Gujarat,,Hospitalized,04/04/2020,No travel history
-3494,,04/04/2020,,,,Mahrajganj,Uttar Pradesh,,Hospitalized,04/04/2020,Details awaited
-3495,,04/04/2020,,,,Hathras,Uttar Pradesh,,Hospitalized,04/04/2020,Details awaited
-3496,,04/04/2020,,,,Hatras,Uttar Pradesh,,Hospitalized,04/04/2020,Details awaited
-3497,,04/04/2020,,,,Hatras,Uttar Pradesh,,Hospitalized,04/04/2020,Details awaited
-3498,,04/04/2020,,,,Hatras,Uttar Pradesh,,Hospitalized,04/04/2020,Details awaited
-3499,,04/04/2020,,,,Mirzapur,Uttar Pradesh,,Hospitalized,04/04/2020,Details awaited
-3500,,04/04/2020,,,,Mirzapur,Uttar Pradesh,,Hospitalized,04/04/2020,Details awaited
+3494,,04/04/2020,,,,Mahrajganj,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3495,,04/04/2020,,,,Hatras,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3496,,04/04/2020,,,,Hatras,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3497,,04/04/2020,,,,Hatras,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3498,,04/04/2020,,,,Hatras,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3499,,04/04/2020,,,,Mirzapur,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
+3500,,04/04/2020,,,,Mirzapur,Uttar Pradesh,,Hospitalized,04/04/2020,Travelled to Delhi
 3501,,04/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,04/04/2020,Details awaited
 3502,,04/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,04/04/2020,Details awaited
 3503,,04/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,04/04/2020,Details awaited
@@ -3817,7 +3817,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 3815,,05/04/2020,,,,Nuh,Haryana,India,Hospitalized,05/04/2020,Details awaited
 3816,,05/04/2020,,,,Gurugram,Haryana,India,Hospitalized,05/04/2020,Details awaited
 3817,,05/04/2020,,,,Ludhiana,Punjab,,Hospitalized,05/04/2020,Details awaited
-3818,,05/04/2020,,,,Barnala,Punjab,,Hospitalized,05/04/2020,Details awaited
+3818,,05/04/2020,44,F,,Barnala,Punjab,India,Hospitalized,05/04/2020,No travel history.
 3819,,05/04/2020,,,,Dehradun,Uttarakhand,,Hospitalized,,
 3820,,05/04/2020,,,,Dehradun,Uttarakhand,,Hospitalized,,
 3821,,05/04/2020,,,,Dehradun,Uttarakhand,,Hospitalized,,
@@ -4145,26 +4145,26 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 4143,,05/04/2020,,,,Kheri,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
 4144,,05/04/2020,,,,Varanasi,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
 4145,,05/04/2020,,,,Varanasi,Uttar Pradesh,,Deceased,05/04/2020,Details Awaited
-4146,,05/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4147,,05/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4148,,05/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4149,,05/04/2020,,,,Kanpur Nagar,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4150,,05/04/2020,,,,Kanpur Nagar,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4151,,05/04/2020,,,,Kanpur Nagar,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4152,,05/04/2020,,,,Kanpur Nagar,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4153,,05/04/2020,,,,Kanpur Nagar,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4154,,05/04/2020,,,,Kanpur Nagar,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4155,,05/04/2020,,,,Kanpur Nagar,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4156,,05/04/2020,,,,Kanpur Nagar,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4157,,05/04/2020,,,,Ghazipur,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4158,,05/04/2020,,,,Ghazipur,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4159,,05/04/2020,,,,Banda,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4160,,05/04/2020,,,,Rae Bareli,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4161,,05/04/2020,,,,Rae Bareli,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4162,,05/04/2020,,,,Bara Banki,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4163,,05/04/2020,,,,Auraiya,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4164,,05/04/2020,,,,Hapur,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
-4165,,05/04/2020,,,,Hapur,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
+4146,,05/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,05/04/2020,Travelled to Delhi
+4147,,05/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,05/04/2020,Travelled to Delhi
+4148,,05/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,05/04/2020,Travelled to Delhi
+4149,,05/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
+4150,,05/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
+4151,,05/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
+4152,,05/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
+4153,,05/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
+4154,,05/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
+4155,,05/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
+4156,,05/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,05/04/2020,Details Awaited
+4157,,05/04/2020,,,,Ghazipur,Uttar Pradesh,,Hospitalized,05/04/2020,Travelled to Delhi
+4158,,05/04/2020,,,,Ghazipur,Uttar Pradesh,,Hospitalized,05/04/2020,Travelled to Delhi
+4159,,05/04/2020,,,,Banda,Uttar Pradesh,,Hospitalized,05/04/2020,Travelled to Delhi
+4160,,05/04/2020,,,,Rae Bareli,Uttar Pradesh,,Hospitalized,05/04/2020,Travelled to Delhi
+4161,,05/04/2020,,,,Rae Bareli,Uttar Pradesh,,Hospitalized,05/04/2020,Travelled to Delhi
+4162,,05/04/2020,,,,Bara Banki,Uttar Pradesh,,Hospitalized,05/04/2020,Travelled to Delhi
+4163,,05/04/2020,,,,Auraiya,Uttar Pradesh,,Hospitalized,05/04/2020,Travelled to Delhi
+4164,,05/04/2020,,,,Hapur,Uttar Pradesh,,Hospitalized,05/04/2020,Travelled to Delhi
+4165,,05/04/2020,,,,Hapur,Uttar Pradesh,,Hospitalized,05/04/2020,Travelled to Delhi
 4166,,05/04/2020,,,Bhubaneswar,Khordha,Odisha,,Hospitalized,05/04/2020,Details Awaited
 4167,,05/04/2020,,,Bhubaneswar,Khordha,Odisha,,Hospitalized,05/04/2020,Details Awaited
 4168,,05/04/2020,,,Bhubaneswar,Khordha,Odisha,,Hospitalized,05/04/2020,Details Awaited
@@ -4242,7 +4242,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 4240,,05/04/2020,,,,Peddapalli,Telangana,,Hospitalized,05/04/2020,Details Awaited
 4241,,05/04/2020,,,,Ranga Reddy,Telangana,,Hospitalized,05/04/2020,Details Awaited
 4242,,05/04/2020,,,,Sangareddy,Telangana,,Hospitalized,05/04/2020,Details Awaited
-4243,,05/04/2020,1,M,,Jamnagar,Gujarat,,Hospitalized,05/04/2020,Local Transmission
+4243,,05/04/2020,1,M,,Jamnagar,Gujarat,,Deceased,05/04/2020,Local Transmission
 4244,,05/04/2020,50,M,,Surat,Gujarat,,Hospitalized,05/04/2020,Local Transmission
 4245,,05/04/2020,52,M,,Morbi,Gujarat,,Hospitalized,05/04/2020,Local Transmission
 4246,,05/04/2020,62,M,,Kachchh,Gujarat,,Hospitalized,05/04/2020,Local Transmission
@@ -4398,9 +4398,9 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 4396,,06/04/2020,,,,Lucknow,Uttar Pradesh,,Hospitalized,06/04/2020,Travelled to Delhi
 4397,,06/04/2020,,,,Lucknow,Uttar Pradesh,,Hospitalized,06/04/2020,Travelled to Delhi
 4398,,06/04/2020,,,,Lucknow,Uttar Pradesh,,Hospitalized,06/04/2020,Travelled to Delhi
-4399,,06/04/2020,,,,Gautam Buddha Nagar,Uttar Pradesh,,Hospitalized,06/04/2020,Details awaited
-4400,,06/04/2020,,,,Gautam Buddha Nagar,Uttar Pradesh,,Hospitalized,06/04/2020,Details awaited
-4401,,06/04/2020,,,,Gautam Buddha Nagar,Uttar Pradesh,,Hospitalized,06/04/2020,Details awaited
+4399,,06/04/2020,,,,Mathura,Uttar Pradesh,,Hospitalized,06/04/2020,Travelled to Delhi
+4400,,06/04/2020,,,,Mathura,Uttar Pradesh,,Hospitalized,06/04/2020,Details awaited
+4401,,06/04/2020,,,,Budaun,Uttar Pradesh,,Hospitalized,06/04/2020,Travelled to Delhi
 4402,,06/04/2020,,,,Kanpur Nagar,Uttar Pradesh,,Hospitalized,06/04/2020,Travelled to Delhi
 4403,,06/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,06/04/2020,Travelled to Delhi
 4404,,06/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,06/04/2020,Travelled to Delhi
@@ -4553,17 +4553,17 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 4551,,06/04/2020,,,,Nuh,Haryana,India,Hospitalized,06/04/2020,Details awaited
 4552,,06/04/2020,,,,Nuh,Haryana,India,Hospitalized,06/04/2020,Details awaited
 4553,,06/04/2020,,,,Nuh,Haryana,India,Hospitalized,06/04/2020,Details awaited
-4554,,06/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,06/04/2020,Details awaited
-4555,,06/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,06/04/2020,Details awaited
-4556,,06/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,06/04/2020,Details awaited
+4554,,06/04/2020,80,F,,S.A.S. Nagar,Punjab,India,Hospitalized,06/04/2020,Contacts of a Ludiana positive patient
+4555,,06/04/2020,55,F,,S.A.S. Nagar,Punjab,India,Hospitalized,06/04/2020,Contacts of a Ludiana positive patient
+4556,,06/04/2020,,M,,S.A.S. Nagar,Punjab,,Hospitalized,06/04/2020,Son of a person who visited Delhi
 4557,,06/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,06/04/2020,Details awaited
-4558,,06/04/2020,,,,Ludhiana,Punjab,,Hospitalized,06/04/2020,Details awaited
-4559,,06/04/2020,,,,Fatehgarh Sahib,Punjab,,Hospitalized,06/04/2020,Details awaited
-4560,,06/04/2020,,,,Fatehgarh Sahib,Punjab,,Hospitalized,06/04/2020,Details awaited
-4561,,06/04/2020,,,,Kapurthala,Punjab,,Hospitalized,06/04/2020,Details awaited
-4562,,06/04/2020,,,Ropar,Rupnagar,Punjab,,Hospitalized,06/04/2020,Details awaited
-4563,,06/04/2020,,,Ropar,Rupnagar,Punjab,,Hospitalized,06/04/2020,Details awaited
-4564,,06/04/2020,,,,Amritsar,Punjab,,Hospitalized,06/04/2020,Details awaited
+4558,,06/04/2020,,M,,Ludhiana,Punjab,India,Hospitalized,06/04/2020,Travelled to Delhi
+4559,,06/04/2020,,,,Fatehgarh Sahib,Punjab,India,Hospitalized,06/04/2020,"Travelled to Delhi, Originally from Aurangabad, MH"
+4560,,06/04/2020,,,,Fatehgarh Sahib,Punjab,India,Hospitalized,06/04/2020,"Travelled to Delhi, Originally from Aurangabad, MH"
+4561,,06/04/2020,17,M,Kot Kar Khan,Kapurthala,Punjab,India,Hospitalized,06/04/2020,"Resident of Mumbai, Travelled to Delhi"
+4562,,06/04/2020,16,M,Ropar,Rupnagar,Punjab,India,Hospitalized,06/04/2020,Family
+4563,,06/04/2020,52,F,Ropar,Rupnagar,Punjab,India,Hospitalized,06/04/2020,Family
+4564,,06/04/2020,57,F,,Amritsar,Punjab,India,Hospitalized,06/04/2020,Wife of a previous postive case
 4565,,06/04/2020,,,,Jagitial,Telangana,,Hospitalized,06/04/2020,Details awaited
 4566,,06/04/2020,,,,Jogulamba Gadwal,Telangana,,Hospitalized,06/04/2020,Details awaited
 4567,,06/04/2020,,,,Jogulamba Gadwal,Telangana,,Hospitalized,06/04/2020,Details awaited
@@ -4754,8 +4754,8 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 4752,,06/04/2020,,,,Ujjain,Madhya Pradesh,,Hospitalized,06/04/2020,Details awaited
 4753,,06/04/2020,,,,Betul,Madhya Pradesh,,Hospitalized,06/04/2020,Details awaited
 4754,,06/04/2020,,,,Vidisha,Madhya Pradesh,,Hospitalized,06/04/2020,Details awaited
-4755,,06/04/2020,,,,,Madhya Pradesh,,Hospitalized,06/04/2020,Classified as other state; detected district not provided
-4756,,06/04/2020,32,M,,Kendrapara,Odisha,,Hospitalized,06/04/2020,Travelled from Dubai
+4755,,06/04/2020,,,,Other Region*,Madhya Pradesh,,Hospitalized,06/04/2020,Classified as other state; detected district not provided
+4756,,06/04/2020,32,M,,Kendrapara,Odisha,India,Hospitalized,06/04/2020,Travelled from Dubai
 4757,,06/04/2020,,,,,Delhi,,Hospitalized,06/04/2020,Details awaited
 4758,,06/04/2020,,,,,Delhi,,Hospitalized,06/04/2020,Details awaited
 4759,,06/04/2020,,,Udaipur,Gomati,Tripura,,Hospitalized,06/04/2020,Details awaited
@@ -4801,7 +4801,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 4799,,07/04/2020,,,,Jodhpur,Rajasthan,,Hospitalized,07/04/2020,Details awaited
 4800,,07/04/2020,,,,Jodhpur,Rajasthan,,Hospitalized,07/04/2020,Details awaited
 4801,,07/04/2020,,,,Jodhpur,Rajasthan,,Hospitalized,07/04/2020,Details awaited
-4802,,07/04/2020,,,,Dhubri,Assam,,Hospitalized,07/04/2020,Travelled to Delhi
+4802,,07/04/2020,,,,Dhubri,Assam,India,Hospitalized,07/04/2020,Travelled to Delhi
 4803,,07/04/2020,60,F,,Ahmadabad,Gujarat,,Hospitalized,07/04/2020,Local Transmission
 4804,,07/04/2020,64,F,,Ahmadabad,Gujarat,,Hospitalized,07/04/2020,Local Transmission
 4805,,07/04/2020,24,F,,Ahmadabad,Gujarat,,Hospitalized,07/04/2020,Local Transmission
@@ -4905,30 +4905,30 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 4903,,07/04/2020,,,,Faridabad,Haryana,India,Hospitalized,07/04/2020,Details awaited
 4904,,07/04/2020,45,M,,Khordha,Odisha,,Hospitalized,07/04/2020,Details awaited
 4905,,07/04/2020,72,M,Jharpada,Khordha,Odisha,India,Deceased,07/04/2020,Had been admitted to AIIMS Bhubaneswar on 4th April with complaint of respiratory distress. He had history of chronic hypertension
-4906,,07/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,07/04/2020,Details awaited
-4907,,07/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,07/04/2020,Details awaited
-4908,,07/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,07/04/2020,Details awaited
-4909,,07/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,07/04/2020,Details awaited
-4910,,07/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,07/04/2020,Details awaited
-4911,,07/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,07/04/2020,Details awaited
-4912,,07/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,07/04/2020,Details awaited
-4913,,07/04/2020,,,,Pathankot,Punjab,,Hospitalized,07/04/2020,Details awaited
-4914,,07/04/2020,,,,Mansa,Punjab,,Hospitalized,07/04/2020,Details awaited
-4915,,07/04/2020,,,,Mansa,Punjab,,Hospitalized,07/04/2020,Details awaited
-4916,,07/04/2020,,,,Moga,Punjab,,Hospitalized,07/04/2020,Details awaited
+4906,,07/04/2020,,,Jawaharpur,S.A.S. Nagar,Punjab,India,Hospitalized,07/04/2020,"They work at a bakery in Jawaharpur, Dera Bassi"
+4907,,07/04/2020,,,Jawaharpur,S.A.S. Nagar,Punjab,India,Hospitalized,07/04/2020,"They work at a bakery in Jawaharpur, Dera Bassi"
+4908,,07/04/2020,,,Jawaharpur,S.A.S. Nagar,Punjab,India,Hospitalized,07/04/2020,"They work at a bakery in Jawaharpur, Dera Bassi"
+4909,,07/04/2020,,,Jawaharpur,S.A.S. Nagar,Punjab,India,Hospitalized,07/04/2020,"They work at a bakery in Jawaharpur, Dera Bassi"
+4910,,07/04/2020,,,Jawaharpur,S.A.S. Nagar,Punjab,India,Hospitalized,07/04/2020,"They work at a bakery in Jawaharpur, Dera Bassi"
+4911,,07/04/2020,,,Jawaharpur,S.A.S. Nagar,Punjab,India,Hospitalized,07/04/2020,"They work at a bakery in Jawaharpur, Dera Bassi"
+4912,,07/04/2020,,,Jawaharpur,S.A.S. Nagar,Punjab,India,Hospitalized,07/04/2020,"They work at a bakery in Jawaharpur, Dera Bassi"
+4913,,07/04/2020,,,,Pathankot,Punjab,,Hospitalized,07/04/2020,Relatives of previously deceased case
+4914,,07/04/2020,,F,,Mansa,Punjab,India,Hospitalized,07/04/2020,Travelled to Delhi
+4915,,07/04/2020,,F,,Mansa,Punjab,India,Hospitalized,07/04/2020,Travelled to Delhi
+4916,,07/04/2020,35,M,Cheeda,Moga,Punjab,India,Hospitalized,07/04/2020,Travel history to Mumbai
 4917,,07/04/2020,,,,Amritsar,Punjab,,Hospitalized,07/04/2020,Details awaited
-4918,,07/04/2020,,,,Pathankot,Punjab,,Hospitalized,07/04/2020,Details awaited
-4919,,07/04/2020,,,,Pathankot,Punjab,,Hospitalized,07/04/2020,Details awaited
-4920,,07/04/2020,,,,Pathankot,Punjab,,Hospitalized,07/04/2020,Details awaited
-4921,,07/04/2020,,,,Pathankot,Punjab,,Hospitalized,07/04/2020,Details awaited
-4922,,07/04/2020,,,,Pathankot,Punjab,,Hospitalized,07/04/2020,Details awaited
-4923,,07/04/2020,,,,Moga,Punjab,,Hospitalized,07/04/2020,Details awaited
-4924,,07/04/2020,,,,Moga,Punjab,,Hospitalized,07/04/2020,Details awaited
-4925,,07/04/2020,,,,Moga,Punjab,,Hospitalized,07/04/2020,Details awaited
-4926,,07/04/2020,,,,Kasaragod,Kerala,,Hospitalized,07/04/2020,"Contact transmission, Details awaited"
-4927,,07/04/2020,,,,Kasaragod,Kerala,,Hospitalized,07/04/2020,"Contact transmission, Details awaited"
-4928,,07/04/2020,,,,Kasaragod,Kerala,,Hospitalized,07/04/2020,Travelled from Dubai
-4929,,07/04/2020,,,,Kasaragod,Kerala,,Hospitalized,07/04/2020,Travelled from Dubai
+4918,,07/04/2020,77,M,,Pathankot,Punjab,India,Hospitalized,07/04/2020,Relatives of previously deceased case
+4919,,07/04/2020,,M,,Pathankot,Punjab,India,Hospitalized,07/04/2020,Relatives of previously deceased case
+4920,,07/04/2020,,F,,Pathankot,Punjab,India,Hospitalized,07/04/2020,Relatives of previously deceased case
+4921,,07/04/2020,,F,,Pathankot,Punjab,India,Hospitalized,07/04/2020,Relatives of previously deceased case
+4922,,07/04/2020,,M,,Pathankot,Punjab,India,Hospitalized,07/04/2020,Relatives of previously deceased case
+4923,,07/04/2020,,,,Moga,Punjab,India,Hospitalized,07/04/2020,Related to previous incident
+4924,,07/04/2020,,,,Moga,Punjab,India,Hospitalized,07/04/2020,Related to previous incident
+4925,,07/04/2020,,,,Moga,Punjab,India,Hospitalized,07/04/2020,Related to previous incident
+4926,,07/04/2020,,,,Kasaragod,Kerala,India,Hospitalized,07/04/2020,"Contact transmission, Details awaited"
+4927,,07/04/2020,,,,Kasaragod,Kerala,India,Hospitalized,07/04/2020,"Contact transmission, Details awaited"
+4928,,07/04/2020,,,,Kasaragod,Kerala,India,Hospitalized,07/04/2020,Travelled from Dubai
+4929,,07/04/2020,,,,Kasaragod,Kerala,India,Hospitalized,07/04/2020,Travelled from Dubai
 4930,,07/04/2020,,,,Malappuram,Kerala,,Hospitalized,07/04/2020,Details awaited
 4931,,07/04/2020,,,,Kollam,Kerala,,Hospitalized,07/04/2020,Details awaited
 4932,,07/04/2020,,,,Kannur,Kerala,,Hospitalized,07/04/2020,Details awaited
@@ -5029,8 +5029,8 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 5027,,07/04/2020,,,,Jind,Haryana,,Hospitalized,07/04/2020,Details awaited
 5028,,07/04/2020,,,,Gurugram,Haryana,,Hospitalized,07/04/2020,Details awaited
 5029,,07/04/2020,,,,Gurugram,Haryana,,Hospitalized,07/04/2020,Details awaited
-5030,,07/04/2020,45,F,,Siwan,Bihar,,Hospitalized,07/04/2020,Travelle from Middle East on 21/3/2020
-5031,,07/04/2020,22,F,,Siwan,Bihar,,Hospitalized,07/04/2020,Travelle from Middle East on 21/3/2020
+5030,,07/04/2020,45,F,,Siwan,Bihar,India,Hospitalized,07/04/2020,Travelle from Middle East on 21/3/2020
+5031,,07/04/2020,22,F,,Siwan,Bihar,India,Hospitalized,07/04/2020,Travelle from Middle East on 21/3/2020
 5032,,07/04/2020,,,,Banswara,Rajasthan,,Hospitalized,07/04/2020,Details awaited
 5033,,07/04/2020,,,,Banswara,Rajasthan,,Hospitalized,07/04/2020,Details awaited
 5034,,07/04/2020,,,,Banswara,Rajasthan,,Hospitalized,07/04/2020,Details awaited
@@ -5166,7 +5166,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 5164,,07/04/2020,,,,Pune,Maharashtra,,Hospitalized,07/04/2020,Details awaited
 5165,,07/04/2020,,,,Thane,Maharashtra,,Hospitalized,07/04/2020,Details awaited
 5166,,07/04/2020,,,,Nagpur,Maharashtra,,Hospitalized,07/04/2020,Details awaited
-5167,,07/04/2020,,,,Satna,Maharashtra,,Hospitalized,07/04/2020,Details awaited
+5167,,07/04/2020,,,,Satara,Maharashtra,,Hospitalized,07/04/2020,Details awaited
 5168,,07/04/2020,,,,Aurangabad,Maharashtra,,Hospitalized,07/04/2020,Details awaited
 5169,,07/04/2020,,,,Aurangabad,Maharashtra,,Hospitalized,07/04/2020,Details awaited
 5170,,07/04/2020,,,,Aurangabad,Maharashtra,,Hospitalized,07/04/2020,Details awaited
@@ -5244,7 +5244,7 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 5242,,07/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,07/04/2020,Details awaited
 5243,,07/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,07/04/2020,Details awaited
 5244,,07/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,07/04/2020,Details awaited
-5245,,07/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,07/04/2020,Details awaited
+5245,,07/04/2020,,,,Kurnool,Andhra Pradesh,,Hospitalized,07/04/2020,Details awaited
 5246,,07/04/2020,,,,Y.S.R.,Andhra Pradesh,,Hospitalized,07/04/2020,Details awaited
 5247,,07/04/2020,,,,Bharatpur,Rajasthan,,Hospitalized,07/04/2020,Details awaited
 5248,,07/04/2020,,,,Bharatpur,Rajasthan,,Hospitalized,07/04/2020,Details awaited
@@ -5261,33 +5261,33 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 5259,,07/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,07/04/2020,Details awaited
 5260,,07/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,07/04/2020,Details awaited
 5261,,07/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,07/04/2020,Details awaited
-5262,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5263,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5264,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5265,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5266,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5267,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5268,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5269,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5270,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5271,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5272,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5273,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5274,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5275,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5276,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5277,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5278,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5279,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5280,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5281,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5282,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5283,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5284,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5285,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5286,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5287,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
-5288,,07/04/2020,,,,,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5262,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5263,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5264,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5265,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5266,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5267,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5268,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5269,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5270,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5271,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5272,,07/04/2020,,,,Lucknow,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5273,,07/04/2020,,,,Lucknow,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5274,,07/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,07/04/2020,Travelled to Delhi
+5275,,07/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,07/04/2020,Travelled to Delhi
+5276,,07/04/2020,,,,Shamli,Uttar Pradesh,,Hospitalized,07/04/2020,Travelled to Delhi
+5277,,07/04/2020,,,,Bulandshahr,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5278,,07/04/2020,,,,Bulandshahr,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5279,,07/04/2020,,,,Basti,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5280,,07/04/2020,,,,Basti,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5281,,07/04/2020,,,,Basti,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5282,,07/04/2020,,,,Azamgarh,Uttar Pradesh,,Hospitalized,07/04/2020,Travelled to Delhi
+5283,,07/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,07/04/2020,Travelled to Delhi
+5284,,07/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,07/04/2020,Travelled to Delhi
+5285,,07/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,07/04/2020,Travelled to Delhi
+5286,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5287,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
+5288,,07/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,07/04/2020,Details awaited
 5289,,07/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,07/04/2020,Details awaited
 5290,,07/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,07/04/2020,Details awaited
 5291,,07/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,07/04/2020,Details awaited
@@ -5355,3 +5355,1468 @@ id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detec
 5353,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
 5354,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
 5355,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5356,,08/04/2020,70,F,,Surat,Gujarat,,Hospitalized,08/04/2020,Local Transmission
+5357,,08/04/2020,22,M,,Vadodara,Gujarat,,Hospitalized,08/04/2020,Local Transmission
+5358,,08/04/2020,43,M,,Bhavnagar,Gujarat,,Hospitalized,08/04/2020,Local Transmission
+5359,,08/04/2020,38,M,,Bhavnagar,Gujarat,,Hospitalized,08/04/2020,Local Transmission
+5360,,08/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5361,,08/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5362,,08/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5363,,08/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5364,,08/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5365,,08/04/2020,,,,S.P.S. Nellore,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5366,,08/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5367,,08/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5368,,08/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5369,,08/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5370,,08/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5371,,08/04/2020,,,,Krishna,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5372,,08/04/2020,,,,Chittoor,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5373,,08/04/2020,,,,Chittoor,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5374,,08/04/2020,,,,Chittoor,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5375,,08/04/2020,,,,,West Bengal,,Hospitalized,08/04/2020,Details awaited
+5376,,08/04/2020,,,,,West Bengal,,Hospitalized,08/04/2020,Details awaited
+5377,,08/04/2020,,,,,West Bengal,,Hospitalized,08/04/2020,Details awaited
+5378,,08/04/2020,,,,,West Bengal,,Hospitalized,08/04/2020,Details awaited
+5379,,08/04/2020,,,,,West Bengal,,Hospitalized,08/04/2020,Details awaited
+5380,,08/04/2020,,,,,West Bengal,,Hospitalized,08/04/2020,Details awaited
+5381,,08/04/2020,,,,,West Bengal,,Hospitalized,08/04/2020,Details awaited
+5382,,08/04/2020,,,,,West Bengal,,Hospitalized,08/04/2020,Details awaited
+5383,KA-P176,08/04/2020,26,F,,Uttara Kannada,Karnataka,India,Hospitalized,08/04/2020,SARI and Contact with Dubai Returnee
+5384,KA-P177,08/04/2020,65,M,,Kalaburagi,Karnataka,India,Hospitalized,08/04/2020,SARI
+5385,KA-P178,08/04/2020,72,F,,Kalaburagi,Karnataka,India,Hospitalized,08/04/2020,Contact of P175
+5386,KA-P179,08/04/2020,35,M,,Mandya,Karnataka,India,Hospitalized,08/04/2020,Contact of P134 & P138
+5387,KA-P180,08/04/2020,23,M,,Chikkaballapura,Karnataka,India,Hospitalized,08/04/2020,Travelled from Delhi
+5388,KA-P181,08/04/2020,27,F,,Bengaluru,Karnataka,India,Hospitalized,08/04/2020,Travelled from Delhi
+5389,,08/04/2020,,,,Faridabad,Haryana,,Hospitalized,08/04/2020,Details awaited
+5390,,08/04/2020,,,,Faridabad,Haryana,,Hospitalized,08/04/2020,Details awaited
+5391,,08/04/2020,,,,Faridabad,Haryana,,Hospitalized,08/04/2020,Details awaited
+5392,,08/04/2020,,,,Faridabad,Haryana,,Hospitalized,08/04/2020,Details awaited
+5393,,08/04/2020,,,,Faridabad,Haryana,,Hospitalized,08/04/2020,Details awaited
+5394,,08/04/2020,,,,Faridabad,Haryana,,Hospitalized,08/04/2020,Details awaited
+5395,,08/04/2020,,,,Faridabad,Haryana,,Hospitalized,08/04/2020,Details awaited
+5396,,08/04/2020,,,,Fatehabad,Haryana,,Hospitalized,08/04/2020,Details awaited
+5397,,08/04/2020,,,,Nuh,Haryana,,Hospitalized,08/04/2020,Details awaited
+5398,,08/04/2020,,,,Palwal,Haryana,,Hospitalized,08/04/2020,Details awaited
+5399,,08/04/2020,,,,Palwal,Haryana,,Hospitalized,08/04/2020,Details awaited
+5400,,08/04/2020,,,,Sonipat,Haryana,,Hospitalized,08/04/2020,Details awaited
+5401,,08/04/2020,,,,Haridwar,Uttarakhand,,Hospitalized,08/04/2020,Details awaited
+5402,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5403,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5404,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5405,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5406,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5407,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5408,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5409,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5410,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5411,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5412,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5413,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5414,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5415,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5416,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5417,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5418,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5419,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5420,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5421,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5422,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5423,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5424,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5425,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5426,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5427,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5428,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5429,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5430,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5431,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5432,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5433,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5434,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5435,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5436,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5437,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5438,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5439,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5440,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5441,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5442,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5443,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5444,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5445,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5446,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5447,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5448,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5449,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5450,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5451,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5452,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5453,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5454,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5455,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5456,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5457,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5458,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5459,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5460,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5461,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5462,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5463,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5464,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5465,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5466,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5467,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5468,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5469,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5470,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5471,,08/04/2020,,,,Bikaner,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5472,,08/04/2020,,,,Bikaner,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5473,,08/04/2020,,,,Bikaner,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5474,,08/04/2020,,,,Bikaner,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5475,,08/04/2020,,,,Bikaner,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5476,,08/04/2020,,,,Jodhpur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5477,,08/04/2020,,F,,,Andaman and Nicobar Islands,,Hospitalized,08/04/2020,"Returned to Island on March 24, Same as others."
+5478,,08/04/2020,50,M,,Jalandhar,Punjab,India,Hospitalized,08/04/2020,A relative who came from Italy visited them.
+5479,,08/04/2020,,M,,Faridkot,Punjab,India,Hospitalized,08/04/2020,Relative of Previous faridkot case
+5480,,08/04/2020,,,,Jammu,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5481,,08/04/2020,,,,Jammu,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5482,,08/04/2020,,,,Jammu,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5483,,08/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5484,,08/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5485,,08/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5486,,08/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5487,,08/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5488,,08/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5489,,08/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5490,,08/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5491,,08/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5492,,08/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5493,,08/04/2020,,,,Kashmir,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5494,TN-P691,08/04/2020,,F,,Chennai,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5495,TN-P692,08/04/2020,,F,,Chennai,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5496,TN-P693,08/04/2020,,F,,Chennai,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5497,TN-P694,08/04/2020,,M,,Chennai,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5498,TN-P695,08/04/2020,,M,,Chennai,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5499,TN-P696,08/04/2020,,M,,Chennai,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5500,TN-P697,08/04/2020,,M,,Chennai,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5501,TN-P698,08/04/2020,,M,,Dindigul,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5502,TN-P699,08/04/2020,,F,,Namakkal,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5503,TN-P700,08/04/2020,,F,,Namakkal,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5504,TN-P701,08/04/2020,,F,,Namakkal,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5505,TN-P702,08/04/2020,,F,,Namakkal,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5506,TN-P703,08/04/2020,,M,,Namakkal,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5507,TN-P704,08/04/2020,,F,,Salem,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5508,TN-P705,08/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5509,TN-P706,08/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5510,TN-P707,08/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5511,TN-P708,08/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5512,TN-P709,08/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5513,TN-P710,08/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5514,TN-P711,08/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5515,TN-P712,08/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5516,TN-P713,08/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5517,TN-P714,08/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5518,TN-P715,08/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5519,TN-P716,08/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5520,TN-P717,08/04/2020,,M,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5521,TN-P718,08/04/2020,,M,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5522,TN-P719,08/04/2020,,M,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5523,TN-P720,08/04/2020,,M,,Theni,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5524,TN-P721,08/04/2020,,M,,Thiruvallur,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5525,TN-P722,08/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5526,TN-P723,08/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5527,TN-P724,08/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5528,TN-P725,08/04/2020,,M,,Tirunelveli,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5529,TN-P726,08/04/2020,,M,,Tiruppur,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5530,TN-P727,08/04/2020,,M,,Tiruppur,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5531,TN-P728,08/04/2020,,M,,Tiruchirappalli,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5532,TN-P729,08/04/2020,,M,,Tiruchirappalli,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5533,TN-P730,08/04/2020,,M,,Tiruchirappalli,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5534,TN-P731,08/04/2020,,M,,Tiruchirappalli,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5535,TN-P732,08/04/2020,,M,,Tiruchirappalli,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5536,TN-P733,08/04/2020,,M,,Tiruchirappalli,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5537,TN-P734,08/04/2020,,M,,Vellore,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5538,TN-P735,08/04/2020,,M,,Viluppuram,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5539,TN-P736,08/04/2020,,M,,Viluppuram,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5540,TN-P737,08/04/2020,,F,,Viluppuram,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5541,TN-P738,08/04/2020,,F,,Viluppuram,Tamil Nadu,,Hospitalized,08/04/2020,Details awaited
+5542,,08/04/2020,,,,Kannur,Kerala,,Hospitalized,08/04/2020,Details awaited
+5543,,08/04/2020,,,,Kannur,Kerala,,Hospitalized,08/04/2020,Details awaited
+5544,,08/04/2020,,,,Kannur,Kerala,,Hospitalized,08/04/2020,Details awaited
+5545,,08/04/2020,,,,Kannur,Kerala,,Hospitalized,08/04/2020,Details awaited
+5546,,08/04/2020,,,,Alappuzha,Kerala,,Hospitalized,08/04/2020,Details awaited
+5547,,08/04/2020,,,,Alappuzha,Kerala,,Hospitalized,08/04/2020,Details awaited
+5548,,08/04/2020,,,,Pathanamthitta,Kerala,,Hospitalized,08/04/2020,Details awaited
+5549,,08/04/2020,55,M,,Kasaragod,Kerala,India,Hospitalized,08/04/2020,Travelled from Dubai
+5550,,08/04/2020,,F,,Thrissur,Kerala,India,Hospitalized,08/04/2020,Daughter of businessman who had been to Surat
+5551,,08/04/2020,,,,Haridwar,Uttarakhand,,Hospitalized,08/04/2020,Details awaited
+5552,,08/04/2020,,,,Jalandhar,Punjab,,Hospitalized,08/04/2020,Details awaited
+5553,,08/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,08/04/2020,Had identified contact with previous case
+5554,,08/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,08/04/2020,Had identified contact with previous case
+5555,,08/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,08/04/2020,Had identified contact with previous case
+5556,,08/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,08/04/2020,Had identified contact with previous case
+5557,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5558,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5559,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5560,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5561,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5562,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5563,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5564,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5565,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5566,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5567,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5568,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5569,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5570,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5571,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5572,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5573,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5574,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5575,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5576,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5577,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5578,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5579,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5580,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5581,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5582,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5583,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5584,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5585,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5586,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5587,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5588,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5589,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5590,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5591,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5592,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5593,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5594,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5595,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5596,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5597,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5598,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5599,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5600,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5601,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5602,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5603,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5604,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5605,,08/04/2020,,,,,Telangana,,Hospitalized,08/04/2020,Details awaited
+5606,,08/04/2020,,,,Gurugram,Haryana,,Hospitalized,08/04/2020,Details awaited
+5607,,08/04/2020,,,,Gurugram,Haryana,,Hospitalized,08/04/2020,Details awaited
+5608,,08/04/2020,,,,Gurugram,Haryana,,Hospitalized,08/04/2020,Details awaited
+5609,,08/04/2020,,,,Gurugram,Haryana,,Hospitalized,08/04/2020,Details awaited
+5610,,08/04/2020,,,,Gurugram,Haryana,,Hospitalized,08/04/2020,Details awaited
+5611,,08/04/2020,,,,Gurugram,Haryana,,Hospitalized,08/04/2020,Details awaited
+5612,,08/04/2020,,,,Gurugram,Haryana,,Hospitalized,08/04/2020,Details awaited
+5613,,08/04/2020,,,,Gurugram,Haryana,,Hospitalized,08/04/2020,Details awaited
+5614,,08/04/2020,,,,Gurugram,Haryana,,Hospitalized,08/04/2020,Details awaited
+5615,,08/04/2020,,,,Gurugram,Haryana,,Hospitalized,08/04/2020,Details awaited
+5616,,08/04/2020,,,,Gurugram,Haryana,,Hospitalized,08/04/2020,Details awaited
+5617,,08/04/2020,,,,Gurugram,Haryana,,Hospitalized,08/04/2020,Details awaited
+5618,,08/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,08/04/2020,
+5619,,08/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,08/04/2020,
+5620,,08/04/2020,,,,Lucknow,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5621,,08/04/2020,,,,Lucknow,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5622,,08/04/2020,,,,Lucknow,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5623,,08/04/2020,,,,Lucknow,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5624,,08/04/2020,,,,Lucknow,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5625,,08/04/2020,,,,Auraiya,Uttar Pradesh,,Hospitalized,08/04/2020,
+5626,,08/04/2020,,,,Muzaffarnagar,Uttar Pradesh,,Hospitalized,08/04/2020,
+5627,,08/04/2020,,,,Muzaffarnagar,Uttar Pradesh,,Hospitalized,08/04/2020,
+5628,,08/04/2020,,,,Amroha,Uttar Pradesh,,Hospitalized,08/04/2020,
+5629,,08/04/2020,,,,Varanasi,Uttar Pradesh,,Hospitalized,08/04/2020,
+5630,,08/04/2020,,,,Varanasi,Uttar Pradesh,,Hospitalized,08/04/2020,
+5631,,08/04/2020,,,,Jaunpur,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5632,,08/04/2020,,,,Baghpat,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5633,,08/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5634,,08/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5635,,08/04/2020,,,,Bulandshahr,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5636,,08/04/2020,,,,Bulandshahr,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5637,,08/04/2020,,,,Bulandshahr,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5638,,08/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5639,,08/04/2020,,,,Kaushambi,Uttar Pradesh,,Hospitalized,08/04/2020,
+5640,,08/04/2020,,,,Sitapur,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5641,,08/04/2020,,,,Sitapur,Uttar Pradesh,,Hospitalized,08/04/2020,Travelled to Delhi
+5642,,08/04/2020,,,,Rampur,Uttar Pradesh,,Hospitalized,08/04/2020,
+5643,,08/04/2020,,,,Rampur,Uttar Pradesh,,Hospitalized,08/04/2020,
+5644,,08/04/2020,,,,Rampur,Uttar Pradesh,,Hospitalized,08/04/2020,
+5645,,08/04/2020,,,,Rampur,Uttar Pradesh,,Hospitalized,08/04/2020,
+5646,,08/04/2020,,,,Rampur,Uttar Pradesh,,Hospitalized,08/04/2020,
+5647,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5648,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5649,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5650,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5651,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5652,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5653,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5654,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5655,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5656,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5657,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5658,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5659,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5660,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5661,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5662,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5663,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5664,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5665,,08/04/2020,,,,,Jammu and Kashmir,,Hospitalized,08/04/2020,Details awaited
+5666,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5667,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5668,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5669,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5670,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5671,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5672,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5673,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5674,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5675,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5676,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5677,,08/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5678,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5679,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5680,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5681,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5682,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5683,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5684,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5685,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5686,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5687,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5688,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5689,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5690,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5691,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5692,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5693,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5694,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5695,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5696,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5697,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5698,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5699,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5700,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5701,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5702,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5703,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5704,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5705,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5706,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5707,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5708,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5709,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5710,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5711,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5712,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5713,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5714,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5715,,08/04/2020,,,,Pune,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5716,,08/04/2020,,,,Thane,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5717,,08/04/2020,,,,Thane,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5718,,08/04/2020,,,,Thane,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5719,,08/04/2020,,,,Thane,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5720,,08/04/2020,,,,Thane,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5721,,08/04/2020,,,,Ahmadnagar,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5722,,08/04/2020,,,,Ahmadnagar,Maharashtra,,Hospitalized,08/04/2020,Details awaited
+5723,,08/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5724,,08/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5725,,08/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5726,,08/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5727,,08/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5728,,08/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5729,,08/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5730,,08/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5731,,08/04/2020,,,,Anantapur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5732,,08/04/2020,,,,Anantapur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5733,,08/04/2020,,,,Anantapur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5734,,08/04/2020,,,,Anantapur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5735,,08/04/2020,,,,Anantapur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5736,,08/04/2020,,,,Anantapur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5737,,08/04/2020,,,,Anantapur,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5738,,08/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5739,,08/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5740,,08/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5741,,08/04/2020,,,,West Godavari,Andhra Pradesh,,Hospitalized,08/04/2020,Details awaited
+5742,,08/04/2020,60,F,,Bhavnagar,Gujarat,,Hospitalized,08/04/2020,Local Transmission
+5743,,08/04/2020,21,F,,Bhavnagar,Gujarat,,Hospitalized,08/04/2020,Local Transmission
+5744,,08/04/2020,46,M,,Vadodara,Gujarat,,Hospitalized,08/04/2020,Local Positive Contact
+5745,,08/04/2020,20,M,,Vadodara,Gujarat,,Hospitalized,08/04/2020,Local Positive Contact
+5746,,08/04/2020,57,M,,Vadodara,Gujarat,,Hospitalized,08/04/2020,Local Positive Contact
+5747,,08/04/2020,21,M,,Vadodara,Gujarat,,Hospitalized,08/04/2020,Local Positive Contact
+5748,,08/04/2020,52,M,,Vadodara,Gujarat,,Hospitalized,08/04/2020,Local Positive Contact
+5749,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5750,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5751,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5752,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5753,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5754,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5755,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5756,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5757,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5758,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5759,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5760,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5761,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5762,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5763,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5764,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5765,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5766,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5767,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5768,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5769,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5770,,08/04/2020,,,,Indore,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5771,,08/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5772,,08/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5773,,08/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5774,,08/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5775,,08/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5776,,08/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5777,,08/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5778,,08/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5779,,08/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5780,,08/04/2020,,,,Ujjain,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5781,,08/04/2020,,,,Ujjain,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5782,,08/04/2020,,,,Morena,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5783,,08/04/2020,,,,Barwani,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5784,,08/04/2020,,,,Barwani,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5785,,08/04/2020,,,,Barwani,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5786,,08/04/2020,,,,Barwani,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5787,,08/04/2020,,,,Barwani,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5788,,08/04/2020,,,,Barwani,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5789,,08/04/2020,,,,Barwani,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5790,,08/04/2020,,,,Barwani,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5791,,08/04/2020,,,,Barwani,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5792,,08/04/2020,,,,,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5793,,08/04/2020,,,,,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5794,,08/04/2020,,,,,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5795,,08/04/2020,,,,,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5796,,08/04/2020,,,,,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5797,,08/04/2020,,,,,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5798,,08/04/2020,,,,,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5799,,08/04/2020,,,,,Madhya Pradesh,,Hospitalized,08/04/2020,Details awaited
+5800,,08/04/2020,,,,,Uttarakhand,,Hospitalized,08/04/2020,Details awaited
+5801,,08/04/2020,,,,,Uttarakhand,,Hospitalized,08/04/2020,Details awaited
+5802,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5803,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5804,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5805,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5806,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5807,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5808,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5809,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5810,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5811,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5812,,08/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5813,,08/04/2020,,,,Jhunjhunu,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5814,,08/04/2020,,,,Karauli,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5815,,08/04/2020,,,,Kota,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5816,,08/04/2020,,,,Kota,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5817,,08/04/2020,,,,Kota,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5818,,08/04/2020,,,,Kota,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5819,,08/04/2020,,,,Kota,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5820,,08/04/2020,,,,Jhalawar,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5821,,08/04/2020,,,,Jhalawar,Rajasthan,,Hospitalized,08/04/2020,Details awaited
+5822,,08/04/2020,38,M,,Nawada,Bihar,,Hospitalized,08/04/2020,Details awaited
+5823,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5824,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5825,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5826,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5827,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5828,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5829,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5830,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5831,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5832,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5833,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5834,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5835,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5836,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5837,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5838,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5839,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5840,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5841,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5842,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5843,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5844,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5845,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5846,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5847,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5848,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5849,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5850,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5851,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5852,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5853,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5854,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5855,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5856,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5857,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5858,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5859,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5860,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5861,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5862,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5863,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5864,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5865,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5866,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5867,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5868,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5869,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5870,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5871,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5872,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5873,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5874,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5875,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5876,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5877,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5878,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5879,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5880,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5881,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5882,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5883,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5884,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5885,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5886,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5887,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5888,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5889,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5890,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5891,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5892,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5893,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5894,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5895,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5896,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5897,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5898,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5899,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5900,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5901,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5902,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5903,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5904,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5905,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5906,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5907,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5908,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5909,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5910,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5911,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5912,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5913,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5914,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5915,,08/04/2020,,,,,Delhi,,Hospitalized,08/04/2020,Details awaited
+5916,,09/04/2020,,,Mohali,S.A.S. Nagar,Punjab,,Hospitalized,09/04/2020,Details awaited
+5917,,09/04/2020,,,Mohali,S.A.S. Nagar,Punjab,,Hospitalized,09/04/2020,Details awaited
+5918,,09/04/2020,,,Mohali,S.A.S. Nagar,Punjab,,Hospitalized,09/04/2020,Details awaited
+5919,,09/04/2020,,,Mohali,S.A.S. Nagar,Punjab,,Hospitalized,09/04/2020,Details awaited
+5920,,09/04/2020,,,Mohali,S.A.S. Nagar,Punjab,,Hospitalized,09/04/2020,Details awaited
+5921,,09/04/2020,,,Mohali,S.A.S. Nagar,Punjab,,Hospitalized,09/04/2020,Details awaited
+5922,,09/04/2020,,,,Bokaro,Jharkhand,,Hospitalized,09/04/2020,Family members of earlier patients
+5923,,09/04/2020,,,Hindipiri,Ranchi,Jharkhand,,Hospitalized,09/04/2020,Family members of earlier patients
+5924,,09/04/2020,,,Hindipiri,Ranchi,Jharkhand,,Hospitalized,09/04/2020,Family members of earlier patients
+5925,,09/04/2020,,,Hindipiri,Ranchi,Jharkhand,,Hospitalized,09/04/2020,Family members of earlier patients
+5926,,09/04/2020,,,Hindipiri,Ranchi,Jharkhand,,Hospitalized,09/04/2020,Family members of earlier patients
+5927,,09/04/2020,,,Hindipiri,Ranchi,Jharkhand,,Hospitalized,09/04/2020,Family members of earlier patients
+5928,,09/04/2020,,,,Bokaro,Jharkhand,,Hospitalized,09/04/2020,Family members of earlier patients
+5929,,09/04/2020,,,,Bokaro,Jharkhand,,Hospitalized,09/04/2020,Family members of earlier patients
+5930,,09/04/2020,,,,Bokaro,Jharkhand,,Hospitalized,09/04/2020,Family members of earlier patients
+5931,,09/04/2020,,,,,West Bengal,,Hospitalized,09/04/2020,Details awaited
+5932,,09/04/2020,,,,,West Bengal,,Hospitalized,09/04/2020,Details awaited
+5933,,09/04/2020,,,,,West Bengal,,Hospitalized,09/04/2020,Details awaited
+5934,,09/04/2020,,,,,West Bengal,,Hospitalized,09/04/2020,Details awaited
+5935,,09/04/2020,,,,Sirmaur,Himachal Pradesh,,Hospitalized,09/04/2020,Details awaited
+5936,,09/04/2020,26,F,,Siwan,Bihar,Indian,Hospitalized,09/04/2020,"Contact with Oman Return, Same family"
+5937,,09/04/2020,18,F,,Siwan,Bihar,Indian,Hospitalized,09/04/2020,"Contact with Oman Return, Same family"
+5938,,09/04/2020,12,F,,Siwan,Bihar,Indian,Hospitalized,09/04/2020,"Contact with Oman Return, Same family"
+5939,,09/04/2020,29,F,,Siwan,Bihar,Indian,Hospitalized,09/04/2020,"Contact with Oman Return, Same family"
+5940,,09/04/2020,52,M,,Korba,Chhattisgarh,,Hospitalized,09/04/2020,Details awaited
+5941,,09/04/2020,,,,Banswara,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5942,,09/04/2020,,,,Banswara,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5943,,09/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5944,,09/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5945,,09/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5946,,09/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5947,,09/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5948,,09/04/2020,,,,Jhunjhunu,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5949,,09/04/2020,,,,Jhunjhunu,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5950,,09/04/2020,,,,Jhunjhunu,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5951,,09/04/2020,,,,Jhunjhunu,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5952,,09/04/2020,,,,Jhunjhunu,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5953,,09/04/2020,,,,Jhunjhunu,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5954,,09/04/2020,,,,Jhunjhunu,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5955,,09/04/2020,,,,Tonk,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5956,,09/04/2020,,,,Tonk,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5957,,09/04/2020,,,,Tonk,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5958,,09/04/2020,,,,Tonk,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5959,,09/04/2020,,,,Tonk,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5960,,09/04/2020,,,,Tonk,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5961,,09/04/2020,,,,Tonk,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5962,,09/04/2020,,,,Jhalawar,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5963,,09/04/2020,,,,Jhalawar,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5964,,09/04/2020,,,,Jhalawar,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5965,,09/04/2020,,,,Jhalawar,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5966,,09/04/2020,,,,Jhalawar,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5967,,09/04/2020,,,,Jhalawar,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5968,,09/04/2020,,,,Jhalawar,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5969,,09/04/2020,,,,Barmer,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5970,,09/04/2020,,,,Jodhpur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+5971,,09/04/2020,,,,Ludhiana,Punjab,,Hospitalized,09/04/2020,Details awaited
+5972,,09/04/2020,,,,Ludhiana,Punjab,,Hospitalized,09/04/2020,Details awaited
+5973,,09/04/2020,,,,Khandwa,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+5974,,09/04/2020,,,,Khandwa,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+5975,,09/04/2020,,,,Khandwa,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+5976,,09/04/2020,,,,Khandwa,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+5977,,09/04/2020,,,,Khandwa,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+5978,,09/04/2020,,,,Dhar,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+5979,,09/04/2020,50,F,,Siwan,Bihar,Indian,Hospitalized,09/04/2020,"Contact with Oman Return, Same family"
+5980,,09/04/2020,12,F,,Siwan,Bihar,Indian,Hospitalized,09/04/2020,"Contact with Oman Return, Same family"
+5981,,09/04/2020,20,F,,Siwan,Bihar,Indian,Hospitalized,09/04/2020,"Contact with Oman Return, Same family"
+5982,,09/04/2020,30,M,,Siwan,Bihar,Indian,Hospitalized,09/04/2020,"Contact with Oman Return, Same family"
+5983,,09/04/2020,10,M,,Siwan,Bihar,Indian,Hospitalized,09/04/2020,"Contact with Oman Return, Same family"
+5984,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5985,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5986,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5987,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5988,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5989,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5990,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5991,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5992,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5993,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5994,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5995,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5996,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5997,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5998,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+5999,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6000,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6001,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6002,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6003,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6004,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6005,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6006,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6007,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6008,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6009,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6010,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6011,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6012,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6013,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6014,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6015,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6016,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6017,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6018,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6019,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6020,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6021,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6022,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6023,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6024,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6025,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6026,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6027,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6028,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6029,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6030,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6031,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6032,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6033,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6034,,09/04/2020,,,,Surat,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6035,,09/04/2020,,,,Vadodara,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6036,,09/04/2020,,,,Chota Udaipur,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6037,,09/04/2020,,,,Anand,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6038,,09/04/2020,,,,Dahod,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6039,,09/04/2020,15,M,,Begusarai,Bihar,,Hospitalized,09/04/2020,Details awaited
+6040,,09/04/2020,18,M,,Begusarai,Bihar,,Hospitalized,09/04/2020,Details awaited
+6041,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6042,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6043,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6044,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6045,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6046,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6047,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6048,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6049,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6050,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6051,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6052,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6053,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6054,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6055,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6056,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6057,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6058,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6059,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6060,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6061,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6062,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6063,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6064,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6065,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6066,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6067,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6068,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6069,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6070,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6071,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6072,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6073,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6074,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6075,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6076,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6077,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6078,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6079,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6080,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6081,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6082,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6083,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6084,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6085,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6086,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6087,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6088,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6089,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6090,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6091,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6092,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6093,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6094,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6095,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6096,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6097,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6098,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6099,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6100,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6101,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6102,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6103,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6104,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6105,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6106,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6107,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6108,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6109,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6110,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6111,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6112,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6113,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6114,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6115,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6116,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6117,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6118,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6119,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6120,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6121,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6122,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6123,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6124,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6125,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6126,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6127,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6128,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6129,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6130,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6131,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6132,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6133,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6134,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6135,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6136,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6137,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6138,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6139,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6140,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6141,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6142,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6143,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6144,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6145,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6146,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6147,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6148,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6149,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6150,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6151,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6152,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6153,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6154,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6155,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6156,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6157,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6158,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6159,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6160,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6161,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6162,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6163,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6164,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6165,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6166,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6167,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6168,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6169,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6170,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6171,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6172,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6173,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6174,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6175,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6176,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6177,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6178,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6179,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6180,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6181,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6182,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6183,,09/04/2020,,,,Mumbai,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6184,,09/04/2020,,,,Pune,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6185,,09/04/2020,,,,Pune,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6186,,09/04/2020,,,,Pune,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6187,,09/04/2020,,,,Yavatmal,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6188,,09/04/2020,,,,Aurangabad,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6189,,09/04/2020,,,,Aurangabad,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6190,,09/04/2020,,,,Aurangabad,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6191,,09/04/2020,,,,Thane,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6192,,09/04/2020,,,PCMC,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6193,,09/04/2020,,,PCMC,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6194,,09/04/2020,,,Navi Mumbai,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6195,,09/04/2020,,,Navi Mumbai,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6196,,09/04/2020,,,Kalyan-Dombivli,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6197,,09/04/2020,,,Kalyan-Dombivli,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6198,,09/04/2020,,,Kalyan-Dombivli,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6199,,09/04/2020,,,Kalyan-Dombivli,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6200,,09/04/2020,,,Mira Bhayandar,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6201,,09/04/2020,,,Virar,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6202,,09/04/2020,,,,Sindhudurg,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6203,,09/04/2020,36,M,,Siwan,Bihar,,Hospitalized,09/04/2020,Travelled from Dubai
+6204,,09/04/2020,,,,Kaithal,Haryana,,Hospitalized,09/04/2020,Details awaited
+6205,,09/04/2020,69,M,,Khordha,Odisha,,Hospitalized,09/04/2020,Brought in ambulance directly from WB
+6206,,09/04/2020,51,F,,Dhenkanal,Odisha,,Hospitalized,09/04/2020,Details awaited
+6207,KA-P182,09/04/2020,50,M,,Belagavi,Karnataka,India,Hospitalized,09/04/2020,Contact of P128 (Father)
+6208,KA-P183,09/04/2020,55,M,,Mysuru,Karnataka,India,Hospitalized,09/04/2020,Contact of P104 and P159 (Father)
+6209,KA-P184,09/04/2020,68,M,,Mysuru,Karnataka,India,Hospitalized,09/04/2020,Contact of P159 (Father)
+6210,KA-P185,09/04/2020,32,M,,Mandya,Karnataka,India,Hospitalized,09/04/2020,"Contact of P78 (Co Passenger, Pharmacy Worker)"
+6211,KA-P186,09/04/2020,4,M,,Bagalkote,Karnataka,India,Hospitalized,09/04/2020,Contact of P165 - Son
+6212,KA-P187,09/04/2020,13,M,,Bagalkote,Karnataka,India,Hospitalized,09/04/2020,Contact of P165 - Son of Brother-in-law
+6213,KA-P188,09/04/2020,9,F,,Bagalkote,Karnataka,India,Hospitalized,09/04/2020,Contact of P165 - Daughter of Brother-in-law
+6214,KA-P189,09/04/2020,19,M,,Bengaluru,Karnataka,India,Hospitalized,09/04/2020,Travelled from Delhi
+6215,KA-P190,09/04/2020,27,M,,Bengaluru,Karnataka,India,Hospitalized,09/04/2020,Travelled from Delhi
+6216,KA-P191,09/04/2020,48,F,,Chikkaballapura,Karnataka,India,Hospitalized,09/04/2020,Contact of P19 and P94 (Sisters)
+6217,,09/04/2020,42,F,,Jalandhar,Punjab,,Hospitalized,09/04/2020,Details awaited
+6218,,09/04/2020,74,F,,Jalandhar,Punjab,,Hospitalized,09/04/2020,Details awaited
+6219,,09/04/2020,63,M,,Jalandhar,Punjab,,Hospitalized,09/04/2020,Details awaited
+6220,,09/04/2020,,,Ramganj,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6221,,09/04/2020,,,Ramganj,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6222,,09/04/2020,,,Ramganj,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6223,,09/04/2020,,,Ramganj,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6224,,09/04/2020,,,Ramganj,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6225,,09/04/2020,,,Ramganj,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6226,,09/04/2020,,,Ramganj,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6227,,09/04/2020,,,Ramganj,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6228,,09/04/2020,,,Shastrinagar,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6229,,09/04/2020,,,Shastrinagar,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6230,,09/04/2020,,,Ghat Gate,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6231,,09/04/2020,,,,Jodhpur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6232,,09/04/2020,,,,Jodhpur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6233,,09/04/2020,,,Jaisalmer,Evacuees,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6234,,09/04/2020,,,Jaisalmer,Evacuees,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6235,,09/04/2020,,,Jaisalmer,Evacuees,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6236,,09/04/2020,,,Jaisalmer,Evacuees,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6237,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6238,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6239,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6240,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6241,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6242,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6243,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6244,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6245,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6246,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6247,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6248,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6249,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6250,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6251,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6252,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6253,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6254,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6255,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6256,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6257,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6258,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6259,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6260,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6261,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6262,,09/04/2020,,,,,Jammu and Kashmir,,Hospitalized,09/04/2020,Details awaited
+6263,KA-P192,09/04/2020,,,,Belagavi,Karnataka,,Hospitalized,09/04/2020,Contact of P128 - Mother
+6264,KA-P193,09/04/2020,,,,Belagavi,Karnataka,,Hospitalized,09/04/2020,Contact of P128 - Brother
+6265,KA-P194,09/04/2020,,,,Dharwad,Karnataka,,Hospitalized,09/04/2020,Travelled from Delhi
+6266,KA-P195,09/04/2020,,,,Bengaluru,Karnataka,,Hospitalized,09/04/2020,Travelled from Manipur to Bangalore on 12th March
+6267,KA-P196,09/04/2020,,,,Bengaluru,Karnataka,,Hospitalized,09/04/2020,SARI
+6268,KA-P197,09/04/2020,,,,Bengaluru,Karnataka,,Hospitalized,09/04/2020,SARI
+6269,,09/04/2020,,,,Korba,Chhattisgarh,,Hospitalized,09/04/2020,Details awaited
+6270,,09/04/2020,,,,Korba,Chhattisgarh,,Hospitalized,09/04/2020,Details awaited
+6271,,09/04/2020,,,,Korba,Chhattisgarh,,Hospitalized,09/04/2020,Details awaited
+6272,,09/04/2020,,,,Korba,Chhattisgarh,,Hospitalized,09/04/2020,Details awaited
+6273,,09/04/2020,,,,Korba,Chhattisgarh,,Hospitalized,09/04/2020,Details awaited
+6274,,09/04/2020,,,,Korba,Chhattisgarh,,Hospitalized,09/04/2020,Details awaited
+6275,,09/04/2020,,,,Korba,Chhattisgarh,,Hospitalized,09/04/2020,Details awaited
+6276,,09/04/2020,,,,Panchkula,Haryana,,Hospitalized,09/04/2020,Details awaited
+6277,,09/04/2020,,,,Panchkula,Haryana,,Hospitalized,09/04/2020,Details awaited
+6278,,09/04/2020,,,,Kannur,Kerala,,Hospitalized,09/04/2020,Details awaited
+6279,,09/04/2020,,,,Kannur,Kerala,,Hospitalized,09/04/2020,Details awaited
+6280,,09/04/2020,,,,Kannur,Kerala,,Hospitalized,09/04/2020,Details awaited
+6281,,09/04/2020,,,,Kannur,Kerala,,Hospitalized,09/04/2020,Details awaited
+6282,,09/04/2020,,,,Kasaragod,Kerala,,Hospitalized,09/04/2020,Details awaited
+6283,,09/04/2020,,,,Kasaragod,Kerala,,Hospitalized,09/04/2020,Details awaited
+6284,,09/04/2020,,,,Kasaragod,Kerala,,Hospitalized,09/04/2020,Details awaited
+6285,,09/04/2020,,,,Kasaragod,Kerala,,Hospitalized,09/04/2020,Details awaited
+6286,,09/04/2020,,,,Kollam,Kerala,,Hospitalized,09/04/2020,Details awaited
+6287,,09/04/2020,,,,Thiruvananthapuram,Kerala,,Hospitalized,09/04/2020,Details awaited
+6288,,09/04/2020,,,,Malappuram,Kerala,,Hospitalized,09/04/2020,Details awaited
+6289,,09/04/2020,,,,Malappuram,Kerala,,Hospitalized,09/04/2020,Details awaited
+6290,TN-P739,09/04/2020,,F,,Chengalpattu,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6291,TN-P740,09/04/2020,,F,,Chengalpattu,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6292,TN-P741,09/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6293,TN-P742,09/04/2020,,M,,Chengalpattu,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6294,TN-P743,09/04/2020,,F,,Chennai,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6295,TN-P744,09/04/2020,,M,,Chennai,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6296,TN-P745,09/04/2020,,M,,Chennai,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6297,TN-P746,09/04/2020,,M,,Chennai,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6298,TN-P747,09/04/2020,,M,,Chennai,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6299,TN-P748,09/04/2020,,M,,Chennai,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6300,TN-P749,09/04/2020,,M,,Chennai,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6301,TN-P750,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6302,TN-P751,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6303,TN-P752,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6304,TN-P753,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6305,TN-P754,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6306,TN-P755,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6307,TN-P756,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6308,TN-P757,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6309,TN-P758,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6310,TN-P759,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6311,TN-P760,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6312,TN-P761,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6313,TN-P762,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6314,TN-P763,09/04/2020,,F,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6315,TN-P764,09/04/2020,,M,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6316,TN-P765,09/04/2020,,M,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6317,TN-P766,09/04/2020,,M,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6318,TN-P767,09/04/2020,,M,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6319,TN-P768,09/04/2020,,M,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6320,TN-P769,09/04/2020,,M,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6321,TN-P770,09/04/2020,,M,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6322,TN-P771,09/04/2020,,M,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6323,TN-P772,09/04/2020,,M,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6324,TN-P773,09/04/2020,,M,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6325,TN-P774,09/04/2020,,M,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6326,TN-P775,09/04/2020,,M,,Erode,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6327,TN-P776,09/04/2020,,M,,Kallakurichi,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6328,TN-P777,09/04/2020,,F,,Kanniyakumari,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6329,TN-P778,09/04/2020,,F,,Kanniyakumari,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6330,TN-P779,09/04/2020,,F,,Kanniyakumari,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6331,TN-P780,09/04/2020,,F,,Kanniyakumari,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6332,TN-P781,09/04/2020,,M,,Kanniyakumari,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6333,TN-P782,09/04/2020,,M,,Kanniyakumari,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6334,TN-P783,09/04/2020,,M,,Kanniyakumari,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6335,TN-P784,09/04/2020,,M,,Kanniyakumari,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6336,TN-P785,09/04/2020,,M,,Madurai,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6337,TN-P786,09/04/2020,,M,,Nagapattinam,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6338,TN-P787,09/04/2020,,F,,Namakkal,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6339,TN-P788,09/04/2020,,F,,Namakkal,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6340,TN-P789,09/04/2020,,F,,Namakkal,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6341,TN-P790,09/04/2020,,M,,Namakkal,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6342,TN-P791,09/04/2020,,M,,Namakkal,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6343,TN-P792,09/04/2020,,M,,Namakkal,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6344,TN-P793,09/04/2020,,M,,Namakkal,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6345,TN-P794,09/04/2020,,M,,Namakkal,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6346,TN-P795,09/04/2020,,F,,Salem,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6347,TN-P796,09/04/2020,,F,,Sivaganga,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6348,TN-P797,09/04/2020,,M,,Tenkasi,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6349,TN-P798,09/04/2020,,F,,Theni,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6350,TN-P799,09/04/2020,,F,,Thirupathur,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6351,TN-P800,09/04/2020,,F,,Thirupathur,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6352,TN-P801,09/04/2020,,F,,Thirupathur,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6353,TN-P802,09/04/2020,,M,,Thirupathur,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6354,TN-P803,09/04/2020,,M,,Thirupathur,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6355,TN-P804,09/04/2020,,M,,Thiruvarur,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6356,TN-P805,09/04/2020,,F,,Thoothukkudi,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6357,TN-P806,09/04/2020,,F,,Thoothukkudi,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6358,TN-P807,09/04/2020,,F,,Thoothukkudi,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6359,TN-P808,09/04/2020,,F,,Thoothukkudi,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6360,TN-P809,09/04/2020,,M,,Thoothukkudi,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6361,TN-P810,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6362,TN-P811,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6363,TN-P812,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6364,TN-P813,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6365,TN-P814,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6366,TN-P815,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6367,TN-P816,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6368,TN-P817,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6369,TN-P818,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6370,TN-P819,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6371,TN-P820,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6372,TN-P821,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6373,TN-P822,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6374,TN-P823,09/04/2020,,F,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6375,TN-P824,09/04/2020,,M,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6376,TN-P825,09/04/2020,,M,,Tirunelveli,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6377,TN-P826,09/04/2020,,F,,Tiruppur,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6378,TN-P827,09/04/2020,,F,,Tiruppur,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6379,TN-P828,09/04/2020,,M,,Tiruppur,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6380,TN-P829,09/04/2020,,M,,Tiruppur,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6381,TN-P830,09/04/2020,,F,,Vellore,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6382,TN-P831,09/04/2020,,F,,Vellore,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6383,TN-P832,09/04/2020,,F,,Vellore,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6384,TN-P833,09/04/2020,,M,,Vellore,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6385,TN-P834,09/04/2020,,M,,Vellore,Tamil Nadu,,Hospitalized,09/04/2020,Details awaited
+6386,,09/04/2020,,,,Ludhiana,Punjab,,Hospitalized,09/04/2020,Details awaited
+6387,,09/04/2020,,,,Ludhiana,Punjab,,Hospitalized,09/04/2020,Details awaited
+6388,,09/04/2020,,,,Sri Muktsar Sahib,Punjab,,Hospitalized,09/04/2020,Details awaited
+6389,,09/04/2020,,,,Mansa,Punjab,,Hospitalized,09/04/2020,Details awaited
+6390,,09/04/2020,,,,Mansa,Punjab,,Hospitalized,09/04/2020,Details awaited
+6391,,09/04/2020,,,,Mansa,Punjab,,Hospitalized,09/04/2020,Details awaited
+6392,,09/04/2020,,,,Mansa,Punjab,,Hospitalized,09/04/2020,Details awaited
+6393,,09/04/2020,,,,Mansa,Punjab,,Hospitalized,09/04/2020,Details awaited
+6394,,09/04/2020,,,,Mansa,Punjab,,Hospitalized,09/04/2020,Details awaited
+6395,,09/04/2020,,,,S.A.S. Nagar,Punjab,,Hospitalized,09/04/2020,Details awaited
+6396,,09/04/2020,,,,Sangrur,Punjab,,Hospitalized,09/04/2020,Details awaited
+6397,,09/04/2020,,,,Barnala,Punjab,,Hospitalized,09/04/2020,Details awaited
+6398,,09/04/2020,,,,Amritsar,Punjab,,Hospitalized,09/04/2020,Details awaited
+6399,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6400,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6401,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6402,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6403,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6404,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6405,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6406,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6407,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6408,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6409,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6410,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6411,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6412,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6413,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6414,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6415,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6416,,09/04/2020,,,,,Telangana,,Hospitalized,09/04/2020,Details awaited
+6417,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6418,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6419,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6420,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6421,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6422,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6423,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6424,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6425,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6426,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6427,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6428,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6429,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6430,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6431,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6432,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6433,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6434,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6435,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6436,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6437,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6438,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6439,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6440,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6441,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6442,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6443,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6444,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6445,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6446,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6447,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6448,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6449,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6450,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6451,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6452,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6453,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6454,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6455,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6456,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6457,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6458,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6459,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6460,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6461,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6462,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6463,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6464,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6465,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6466,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6467,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6468,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6469,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6470,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6471,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6472,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6473,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6474,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6475,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6476,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6477,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6478,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6479,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6480,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6481,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6482,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6483,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6484,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6485,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6486,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6487,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6488,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6489,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6490,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6491,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6492,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6493,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6494,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6495,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6496,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6497,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6498,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6499,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6500,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6501,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6502,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6503,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6504,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6505,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6506,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6507,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6508,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6509,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6510,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6511,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6512,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6513,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6514,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6515,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6516,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6517,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6518,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6519,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6520,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6521,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6522,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6523,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6524,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6525,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6526,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6527,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6528,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6529,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6530,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6531,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6532,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6533,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6534,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6535,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6536,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6537,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6538,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6539,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6540,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6541,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6542,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6543,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6544,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6545,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6546,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6547,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6548,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6549,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6550,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6551,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6552,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6553,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6554,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6555,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6556,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6557,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6558,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6559,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6560,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6561,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6562,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6563,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6564,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6565,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6566,,09/04/2020,,,,,Delhi,,Hospitalized,09/04/2020,Details awaited
+6567,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6568,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6569,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6570,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6571,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6572,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6573,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6574,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6575,,09/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6576,,09/04/2020,,,,Patan,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6577,,09/04/2020,,,,Patan,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6578,,09/04/2020,,,,Patan,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6579,,09/04/2020,,,,Patan,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6580,,09/04/2020,,,,Patan,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6581,,09/04/2020,,,,Patan,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6582,,09/04/2020,,,,Patan,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6583,,09/04/2020,,,,Rajkot,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6584,,09/04/2020,,,,Rajkot,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6585,,09/04/2020,,,,Vadodara,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6586,,09/04/2020,,,,Vadodara,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6587,,09/04/2020,,,,Vadodara,Gujarat,,Hospitalized,09/04/2020,Details awaited
+6588,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6589,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6590,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6591,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6592,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6593,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6594,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6595,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6596,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6597,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6598,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6599,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6600,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6601,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6602,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6603,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6604,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6605,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6606,,09/04/2020,,,,Agra,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6607,,09/04/2020,,,,Ghaziabad,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6608,,09/04/2020,,,,Ghaziabad,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6609,,09/04/2020,,,,Gautam Buddha Nagar,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6610,,09/04/2020,,,,Gautam Buddha Nagar,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6611,,09/04/2020,,,,Gautam Buddha Nagar,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6612,,09/04/2020,,,,Kanpur Nagar,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6613,,09/04/2020,,,,Baghpat,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6614,,09/04/2020,,,,Baghpat,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6615,,09/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6616,,09/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6617,,09/04/2020,,,,Meerut,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6618,,09/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6619,,09/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6620,,09/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6621,,09/04/2020,,,,Firozabad,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6622,,09/04/2020,,,,Hardoi,Uttar Pradesh,,Hospitalized,09/04/2020,Travelled to Delhi
+6623,,09/04/2020,,,,Pratapgarh,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6624,,09/04/2020,,,,Pratapgarh,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6625,,09/04/2020,,,,Pratapgarh,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6626,,09/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6627,,09/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6628,,09/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6629,,09/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6630,,09/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6631,,09/04/2020,,,,Saharanpur,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6632,,09/04/2020,,,,Muzaffarnagar,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6633,,09/04/2020,,,,Muzaffarnagar,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6634,,09/04/2020,,,,Muzaffarnagar,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6635,,09/04/2020,,,,Muzaffarnagar,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6636,,09/04/2020,,,,Amroha,Uttar Pradesh,,Hospitalized,09/04/2020,Details awaited
+6637,,09/04/2020,,,,Dhubri,Assam,,Hospitalized,09/04/2020,Details awaited
+6638,,09/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6639,,09/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6640,,09/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6641,,09/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6642,,09/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6643,,09/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6644,,09/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6645,,09/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6646,,09/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6647,,09/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6648,,09/04/2020,,,,Prakasam,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6649,,09/04/2020,,,,East Godavari,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6650,,09/04/2020,,,,Y.S.R.,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6651,,09/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6652,,09/04/2020,,,,Guntur,Andhra Pradesh,,Hospitalized,09/04/2020,Details awaited
+6653,,09/04/2020,,,,Bhilwara,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6654,,09/04/2020,,,,EVACUEES,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6655,,09/04/2020,,,,EVACUEES,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6656,,09/04/2020,,,,Kota,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6657,,09/04/2020,,,,Kota,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6658,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6659,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6660,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6661,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6662,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6663,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6664,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6665,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6666,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6667,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6668,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6669,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6670,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6671,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6672,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6673,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6674,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6675,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6676,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6677,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6678,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6679,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6680,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6681,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6682,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6683,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6684,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6685,,09/04/2020,,,,Jaipur,Rajasthan,,Hospitalized,09/04/2020,Details awaited
+6686,,09/04/2020,19,F,,Siwan,Bihar,,Hospitalized,09/04/2020,"Same Family, Contact with Oman returnee"
+6687,,09/04/2020,22,F,,Siwan,Bihar,,Hospitalized,09/04/2020,"Same Family, Contact with Oman returnee"
+6688,,09/04/2020,25,F,,Siwan,Bihar,,Hospitalized,09/04/2020,"Same Family, Contact with Oman returnee"
+6689,,09/04/2020,19,F,,Siwan,Bihar,,Hospitalized,09/04/2020,"Same Family, Contact with Oman returnee"
+6690,,09/04/2020,11,F,,Siwan,Bihar,,Hospitalized,09/04/2020,"Same Family, Contact with Oman returnee"
+6691,,09/04/2020,19,M,,Siwan,Bihar,,Hospitalized,09/04/2020,"Same Family, Contact with Oman returnee"
+6692,,09/04/2020,60,M,,Siwan,Bihar,,Hospitalized,09/04/2020,"Same Family, Contact with Oman returnee"
+6693,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6694,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6695,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6696,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6697,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6698,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6699,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6700,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6701,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6702,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6703,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6704,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6705,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6706,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6707,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6708,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6709,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6710,,09/04/2020,,,,,Maharashtra,,Hospitalized,09/04/2020,Details awaited
+6711,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6712,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6713,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6714,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6715,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6716,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6717,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6718,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6719,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6720,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6721,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6722,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6723,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6724,,09/04/2020,,,,,Madhya Pradesh,,Hospitalized,09/04/2020,Details awaited
+6725,,09/04/2020,,,,,Odisha,,Hospitalized,09/04/2020,Details awaited
+6726,,09/04/2020,,,,,Odisha,,Hospitalized,09/04/2020,Details awaited
+6727,,09/04/2020,,,,,Odisha,,Hospitalized,09/04/2020,Details awaited
+6728,,09/04/2020,,,,,Odisha,,Hospitalized,09/04/2020,Details awaited
+6729,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6730,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6731,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6732,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6733,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6734,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6735,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6736,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6737,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6738,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6739,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6740,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6741,,10/04/2020,,,,,West Bengal,,Hospitalized,10/04/2020,Details awaited
+6742,,10/04/2020,,,,Bokaro,Jharkhand,,Hospitalized,10/04/2020,Have identified contact history
+6743,,10/04/2020,,,,Banswara,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6744,,10/04/2020,,,,Banswara,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6745,,10/04/2020,,,,Banswara,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6746,,10/04/2020,,,,Banswara,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6747,,10/04/2020,,,,Banswara,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6748,,10/04/2020,,,,Banswara,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6749,,10/04/2020,,,,Banswara,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6750,,10/04/2020,,,,Banswara,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6751,,10/04/2020,,,,Banswara,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6752,,10/04/2020,,,,Banswara,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6753,,10/04/2020,,,,Banswara,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6754,,10/04/2020,,,,Banswara,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6755,,10/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6756,,10/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6757,,10/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6758,,10/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6759,,10/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6760,,10/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6761,,10/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6762,,10/04/2020,,,,Jaisalmer,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6763,,10/04/2020,,,,Kota,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6764,,10/04/2020,,,,Jhalawar,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6765,,10/04/2020,,,,Jhalawar,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6766,,10/04/2020,,,,Jhalawar,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6767,,10/04/2020,,,,Alwar,Rajasthan,,Hospitalized,10/04/2020,Have identified contact history
+6768,,10/04/2020,,,,Bharatpur,Rajasthan,,Hospitalized,10/04/2020,Details awaited
+6769,,10/04/2020,10,F,,Siwan,Bihar,,Hospitalized,10/04/2020,"Same Family, Contact with Oman returnee"
+6770,,10/04/2020,28,M,,Siwan,Bihar,,Hospitalized,10/04/2020,"Same Family, Contact with Oman returnee"
+6771,,10/04/2020,,,,Anantapur,Andhra Pradesh,,Hospitalized,10/04/2020,Details awaited
+6772,,10/04/2020,,,,Anantapur,Andhra Pradesh,,Hospitalized,10/04/2020,Details awaited
+6773,,10/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6774,,10/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6775,,10/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6776,,10/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6777,,10/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6778,,10/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6779,,10/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6780,,10/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6781,,10/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6782,,10/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6783,,10/04/2020,,,,Ahmadabad,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6784,,10/04/2020,,,,Bharuch,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6785,,10/04/2020,,,,Bharuch,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6786,,10/04/2020,,,,Bharuch,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6787,,10/04/2020,,,,Bharuch,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6788,,10/04/2020,,,,Bhavnagar,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6789,,10/04/2020,,,,Bhavnagar,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6790,,10/04/2020,,,,Gandhinagar,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6791,,10/04/2020,,,,Kachchh,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6792,,10/04/2020,,,,Kachchh,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6793,,10/04/2020,,,,Patan,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6794,,10/04/2020,,,,Patan,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6795,,10/04/2020,,,,Patan,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6796,,10/04/2020,,,,Patan,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6797,,10/04/2020,,,,Patan,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6798,,10/04/2020,,,,Patan,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6799,,10/04/2020,,,,Rajkot,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6800,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6801,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6802,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6803,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6804,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6805,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6806,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6807,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6808,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6809,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6810,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6811,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6812,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6813,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6814,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6815,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6816,,10/04/2020,,,,Vadodara,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6817,,10/04/2020,,,,Bhavnagar,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6818,,10/04/2020,,,,Bhavnagar,Gujarat,,Hospitalized,10/04/2020,Details awaited
+6819,,10/04/2020,,,,Leh,Ladakh,,Hospitalized,10/04/2020,Details awaited
+6820,,10/04/2020,,,,Bhopal,Madhya Pradesh,,Hospitalized,10/04/2020,Details awaited
